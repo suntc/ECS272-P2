@@ -1,0 +1,6808 @@
+{
+    "m507": {
+        "year": "1996",
+        "genre": [
+            "crime",
+            "horror",
+            "mystery",
+            "thriller"
+        ],
+        "count": "92543",
+        "title": "Scream",
+        "score": "7.20"
+    },
+    "m77": {
+        "year": "1967",
+        "genre": [
+            "comedy",
+            "drama",
+            "romance"
+        ],
+        "count": "79677",
+        "title": "The Graduate",
+        "score": "8.20"
+    },
+    "m83": {
+        "year": "1979",
+        "genre": [
+            "drama"
+        ],
+        "count": "2455",
+        "title": "Hardcore",
+        "score": "6.70"
+    },
+    "m479": {
+        "year": "1990",
+        "genre": [
+            "comedy",
+            "romance"
+        ],
+        "count": "61642",
+        "title": "Pretty Woman",
+        "score": "6.70"
+    },
+    "m262": {
+        "year": "1989",
+        "genre": [
+            "crime",
+            "drama",
+            "thriller",
+            "action",
+            "adventure",
+            "crime"
+        ],
+        "count": "112731",
+        "title": "Batman",
+        "score": "7.60"
+    },
+    "m539": {
+        "year": "1950",
+        "genre": [
+            "drama",
+            "film-noir"
+        ],
+        "count": "55994",
+        "title": "Sunset Blvd.",
+        "score": "8.70"
+    },
+    "m540": {
+        "year": "1984",
+        "genre": [
+            "action",
+            "adventure",
+            "sci-fi"
+        ],
+        "count": "6576",
+        "title": "Supergirl",
+        "score": "4.10"
+    },
+    "m412": {
+        "year": "2003",
+        "genre": [
+            "horror",
+            "thriller"
+        ],
+        "count": "39850",
+        "title": "Freddy Vs. Jason",
+        "score": "5.80"
+    },
+    "m406": {
+        "year": "1927",
+        "genre": [
+            "drama",
+            "music",
+            "romance"
+        ],
+        "count": "3252",
+        "title": "The Jazz Singer",
+        "score": "6.80"
+    },
+    "m180": {
+        "year": "1985",
+        "genre": [
+            "action",
+            "western"
+        ],
+        "count": "14355",
+        "title": "Silverado",
+        "score": "7.00"
+    },
+    "m68": {
+        "year": "1999",
+        "genre": [
+            "action",
+            "adventure",
+            "comedy",
+            "sci-fi"
+        ],
+        "count": "53004",
+        "title": "Galaxy Quest",
+        "score": "7.20"
+    },
+    "m121": {
+        "year": "2000",
+        "genre": [
+            "fantasy",
+            "comedy",
+            "romance",
+            "animation",
+            "comedy",
+            "fantasy",
+            "horror"
+        ],
+        "count": "35489",
+        "title": "Little Nicky",
+        "score": "5.00"
+    },
+    "m472": {
+        "year": "2000",
+        "genre": [
+            "action",
+            "sci-fi",
+            "thriller"
+        ],
+        "count": "55982",
+        "title": "Pitch Black",
+        "score": "7.00"
+    },
+    "m151": {
+        "year": "2007",
+        "genre": [
+            "crime",
+            "drama",
+            "mystery",
+            "thriller",
+            "western"
+        ],
+        "count": "202649",
+        "title": "No Country For Old Men",
+        "score": "8.30"
+    },
+    "m117": {
+        "year": "2001",
+        "genre": [
+            "comedy"
+        ],
+        "count": "44558",
+        "title": "Legally Blonde",
+        "score": "6.20"
+    },
+    "m314": {
+        "year": "1987",
+        "genre": [
+            "sci-fi",
+            "horror"
+        ],
+        "count": "627",
+        "title": "The Curse",
+        "score": "4.50"
+    },
+    "m582": {
+        "year": "1996",
+        "genre": [
+            "crime",
+            "drama"
+        ],
+        "count": "153782",
+        "title": "Trainspotting",
+        "score": "8.20"
+    },
+    "m286": {
+        "year": "1959",
+        "genre": [
+            "comedy",
+            "horror"
+        ],
+        "count": "1892",
+        "title": "A Bucket Of Blood",
+        "score": "6.80"
+    },
+    "m576": {
+        "year": "1993",
+        "genre": [
+            "action",
+            "drama",
+            "history",
+            "romance",
+            "western"
+        ],
+        "count": "44204",
+        "title": "Tombstone",
+        "score": "7.70"
+    },
+    "m609": {
+        "year": "1985",
+        "genre": [
+            "drama",
+            "romance",
+            "thriller"
+        ],
+        "count": "30705",
+        "title": "Witness",
+        "score": "7.60"
+    },
+    "m447": {
+        "year": "1993",
+        "genre": [
+            "sci-fi"
+        ],
+        "count": "668",
+        "title": "Arcade",
+        "score": "4.60"
+    },
+    "m65": {
+        "year": "1996",
+        "genre": [
+            "action",
+            "crime",
+            "horror",
+            "thriller"
+        ],
+        "count": "81559",
+        "title": "From Dusk Till Dawn",
+        "score": "7.10"
+    },
+    "m548": {
+        "year": "2001",
+        "genre": [
+            "drama",
+            "music",
+            "war"
+        ],
+        "count": "1950",
+        "title": "Taking Sides",
+        "score": "7.20"
+    },
+    "m362": {
+        "year": "1989",
+        "genre": [
+            "horror"
+        ],
+        "count": "10288",
+        "title": "Friday The 13Th Part Viii: Jason Takes Manhattan",
+        "score": "3.90"
+    },
+    "m218": {
+        "year": "2000",
+        "genre": [
+            "drama",
+            "history",
+            "thriller"
+        ],
+        "count": "23732",
+        "title": "Thirteen Days",
+        "score": "7.30"
+    },
+    "m610": {
+        "year": "1939",
+        "genre": [
+            "adventure",
+            "family",
+            "fantasy",
+            "musical"
+        ],
+        "count": "104873",
+        "title": "The Wizard Of Oz",
+        "score": "8.30"
+    },
+    "m49": {
+        "year": "1999",
+        "genre": [
+            "comedy",
+            "music"
+        ],
+        "count": "14666",
+        "title": "Detroit Rock City",
+        "score": "6.50"
+    },
+    "m329": {
+        "year": "1994",
+        "genre": [
+            "biography",
+            "comedy",
+            "drama"
+        ],
+        "count": "75704",
+        "title": "Ed Wood",
+        "score": "8.10"
+    },
+    "m259": {
+        "year": "1992",
+        "genre": [
+            "action",
+            "crime",
+            "fantasy",
+            "thriller",
+            "animation",
+            "crime",
+            "fantasy",
+            "action",
+            "thriller"
+        ],
+        "count": "79770",
+        "title": "Batman Returns",
+        "score": "6.90"
+    },
+    "m399": {
+        "year": "1994",
+        "genre": [
+            "drama",
+            "fantasy"
+        ],
+        "count": "80077",
+        "title": "Interview With The Vampire: The Vampire Chronicles",
+        "score": "7.40"
+    },
+    "m106": {
+        "year": "1990",
+        "genre": [
+            "drama",
+            "mystery",
+            "thriller"
+        ],
+        "count": "29182",
+        "title": "Jacob'S Ladder",
+        "score": "7.50"
+    },
+    "m524": {
+        "year": "1972",
+        "genre": [
+            "drama"
+        ],
+        "count": "1298",
+        "title": "Sounder",
+        "score": "7.80"
+    },
+    "m132": {
+        "year": "1941",
+        "genre": [
+            "comedy",
+            "drama",
+            "romance"
+        ],
+        "count": "4841",
+        "title": "Meet John Doe",
+        "score": "7.70"
+    },
+    "m73": {
+        "year": "1996",
+        "genre": [
+            "adventure",
+            "drama",
+            "thriller"
+        ],
+        "count": "19954",
+        "title": "The Ghost And The Darkness",
+        "score": "6.60"
+    },
+    "m592": {
+        "year": "1995",
+        "genre": [
+            "crime",
+            "mystery",
+            "thriller"
+        ],
+        "count": "272137",
+        "title": "The Usual Suspects",
+        "score": "8.70"
+    },
+    "m523": {
+        "year": "2005",
+        "genre": [
+            "comedy",
+            "romance"
+        ],
+        "count": "12340",
+        "title": "The Wedding Date",
+        "score": "5.50"
+    },
+    "m84": {
+        "year": "1971",
+        "genre": [
+            "comedy",
+            "romance"
+        ],
+        "count": "28689",
+        "title": "Harold And Maude",
+        "score": "8.10"
+    },
+    "m489": {
+        "year": "1983",
+        "genre": [
+            "action",
+            "adventure",
+            "fantasy",
+            "sci-fi"
+        ],
+        "count": "215058",
+        "title": "Star Wars: Episode Vi - Return Of The Jedi",
+        "score": "8.30"
+    },
+    "m134": {
+        "year": "1927",
+        "genre": [
+            "adventure",
+            "drama",
+            "sci-fi"
+        ],
+        "count": "40730",
+        "title": "Metropolis",
+        "score": "8.40"
+    },
+    "m474": {
+        "year": "1986",
+        "genre": [
+            "action",
+            "drama",
+            "war"
+        ],
+        "count": "110867",
+        "title": "Platoon",
+        "score": "8.20"
+    },
+    "m66": {
+        "year": "1997",
+        "genre": [
+            "action",
+            "drama"
+        ],
+        "count": "24068",
+        "title": "G.I. Jane",
+        "score": "5.60"
+    },
+    "m431": {
+        "year": "1986",
+        "genre": [
+            "crime",
+            "thriller"
+        ],
+        "count": "21649",
+        "title": "Manhunter",
+        "score": "7.20"
+    },
+    "m531": {
+        "year": "1979",
+        "genre": [
+            "adventure",
+            "fantasy",
+            "mystery",
+            "sci-fi"
+        ],
+        "count": "25723",
+        "title": "Star Trek: The Motion Picture",
+        "score": "6.20"
+    },
+    "m47": {
+        "year": "1974",
+        "genre": [
+            "comedy",
+            "sci-fi",
+            "thriller"
+        ],
+        "count": "8303",
+        "title": "Dark Star",
+        "score": "6.50"
+    },
+    "m591": {
+        "year": "1992",
+        "genre": [
+            "drama",
+            "western"
+        ],
+        "count": "101270",
+        "title": "Unforgiven",
+        "score": "8.30"
+    },
+    "m587": {
+        "year": "1995",
+        "genre": [
+            "mystery",
+            "sci-fi",
+            "thriller"
+        ],
+        "count": "173320",
+        "title": "Twelve Monkeys",
+        "score": "8.10"
+    },
+    "m62": {
+        "year": "1982",
+        "genre": [
+            "biography",
+            "drama"
+        ],
+        "count": "2756",
+        "title": "Frances",
+        "score": "7.20"
+    },
+    "m321": {
+        "year": "1993",
+        "genre": [
+            "action",
+            "crime",
+            "sci-fi"
+        ],
+        "count": "46318",
+        "title": "Demolition Man",
+        "score": "6.30"
+    },
+    "m171": {
+        "year": "1949",
+        "genre": [
+            "action",
+            "drama",
+            "romance",
+            "western"
+        ],
+        "count": "115",
+        "title": "Roughshod",
+        "score": "6.90"
+    },
+    "m103": {
+        "year": "1934",
+        "genre": [
+            "comedy",
+            "romance"
+        ],
+        "count": "25577",
+        "title": "It Happened One Night",
+        "score": "8.30"
+    },
+    "m80": {
+        "year": "1998",
+        "genre": [
+            "drama",
+            "horror",
+            "thriller"
+        ],
+        "count": "22353",
+        "title": "Halloween H20: 20 Years Later",
+        "score": "5.40"
+    },
+    "m28": {
+        "year": "1975",
+        "genre": [
+            "drama",
+            "romance",
+            "war"
+        ],
+        "count": "40622",
+        "title": "Barry Lyndon",
+        "score": "8.10"
+    },
+    "m130": {
+        "year": "1955",
+        "genre": [
+            "drama",
+            "romance"
+        ],
+        "count": "6379",
+        "title": "Marty",
+        "score": "7.70"
+    },
+    "m434": {
+        "year": "1982",
+        "genre": [
+            "horror",
+            "mystery",
+            "sci-fi"
+        ],
+        "count": "13037",
+        "title": "Halloween Iii: Season Of The Witch",
+        "score": "3.80"
+    },
+    "m161": {
+        "year": "1931",
+        "genre": [
+            "comedy",
+            "romance"
+        ],
+        "count": "1119",
+        "title": "Platinum Blonde",
+        "score": "6.90"
+    },
+    "m589": {
+        "year": "1997",
+        "genre": [
+            "crime",
+            "drama",
+            "thriller"
+        ],
+        "count": "25388",
+        "title": "U Turn",
+        "score": "6.70"
+    },
+    "m392": {
+        "year": "1996",
+        "genre": [
+            "action",
+            "horror",
+            "thriller"
+        ],
+        "count": "216",
+        "title": "House Of The Damned",
+        "score": "4.30"
+    },
+    "m468": {
+        "year": "2001",
+        "genre": [
+            "action",
+            "drama",
+            "romance",
+            "war"
+        ],
+        "count": "97519",
+        "title": "Pearl Harbor",
+        "score": "5.40"
+    },
+    "m124": {
+        "year": "1937",
+        "genre": [
+            "adventure",
+            "drama",
+            "fantasy",
+            "mystery"
+        ],
+        "count": "5509",
+        "title": "Lost Horizon",
+        "score": "7.80"
+    },
+    "m439": {
+        "year": "1978",
+        "genre": [
+            "biography",
+            "crime",
+            "drama",
+            "thriller"
+        ],
+        "count": "24103",
+        "title": "Midnight Express",
+        "score": "7.60"
+    },
+    "m219": {
+        "year": "1992",
+        "genre": [
+            "crime",
+            "mystery",
+            "thriller",
+            "western"
+        ],
+        "count": "6662",
+        "title": "Thunderheart",
+        "score": "6.60"
+    },
+    "m478": {
+        "year": "1987",
+        "genre": [
+            "action",
+            "adventure",
+            "sci-fi",
+            "thriller"
+        ],
+        "count": "90730",
+        "title": "Predator",
+        "score": "7.80"
+    },
+    "m136": {
+        "year": "1991",
+        "genre": [
+            "crime",
+            "drama"
+        ],
+        "count": "3574",
+        "title": "Mobsters",
+        "score": "5.50"
+    },
+    "m482": {
+        "year": "1960",
+        "genre": [
+            "drama",
+            "horror",
+            "mystery",
+            "thriller",
+            "thriller"
+        ],
+        "count": "146915",
+        "title": "Psycho",
+        "score": "8.70"
+    },
+    "m81": {
+        "year": "1995",
+        "genre": [
+            "horror",
+            "thriller"
+        ],
+        "count": "8743",
+        "title": "Halloween: The Curse Of Michael Myers",
+        "score": "4.50"
+    },
+    "m578": {
+        "year": "1990",
+        "genre": [
+            "drama"
+        ],
+        "count": "490",
+        "title": "To Sleep With Anger",
+        "score": "6.80"
+    },
+    "m402": {
+        "year": "1946",
+        "genre": [
+            "drama",
+            "fantasy",
+            "romance"
+        ],
+        "count": "103290",
+        "title": "It'S A Wonderful Life",
+        "score": "8.70"
+    },
+    "m203": {
+        "year": "1972",
+        "genre": [
+            "crime",
+            "drama",
+            "thriller"
+        ],
+        "count": "419312",
+        "title": "The Godfather",
+        "score": "9.20"
+    },
+    "m579": {
+        "year": "1995",
+        "genre": [
+            "animation",
+            "adventure",
+            "comedy",
+            "family",
+            "fantasy"
+        ],
+        "count": "156231",
+        "title": "Toy Story",
+        "score": "8.20"
+    },
+    "m319": {
+        "year": "1998",
+        "genre": [
+            "action",
+            "horror",
+            "sci-fi",
+            "thriller"
+        ],
+        "count": "12638",
+        "title": "Deep Rising",
+        "score": "5.70"
+    },
+    "m60": {
+        "year": "1998",
+        "genre": [
+            "drama",
+            "fantasy"
+        ],
+        "count": "82748",
+        "title": "Fear And Loathing In Las Vegas",
+        "score": "7.60"
+    },
+    "m3": {
+        "year": "1968",
+        "genre": [
+            "adventure",
+            "mystery",
+            "sci-fi"
+        ],
+        "count": "163227",
+        "title": "2001: A Space Odyssey",
+        "score": "8.40"
+    },
+    "m353": {
+        "year": "1970",
+        "genre": [
+            "drama"
+        ],
+        "count": "11969",
+        "title": "Five Easy Pieces",
+        "score": "7.50"
+    },
+    "m96": {
+        "year": "1953",
+        "genre": [
+            "horror",
+            "sci-fi"
+        ],
+        "count": "2115",
+        "title": "Invaders From Mars",
+        "score": "6.40"
+    },
+    "m126": {
+        "year": "2002",
+        "genre": [
+            "action",
+            "crime",
+            "mystery",
+            "sci-fi",
+            "thriller",
+            "action",
+            "animation",
+            "drama",
+            "mystery",
+            "sci-fi",
+            "thriller"
+        ],
+        "count": "137009",
+        "title": "Minority Report",
+        "score": "7.70"
+    },
+    "m429": {
+        "year": "1998",
+        "genre": [
+            "action",
+            "adventure",
+            "drama",
+            "history"
+        ],
+        "count": "36684",
+        "title": "The Man In The Iron Mask",
+        "score": "6.10"
+    },
+    "m385": {
+        "year": "2002",
+        "genre": [
+            "horror",
+            "mystery",
+            "thriller"
+        ],
+        "count": "3400",
+        "title": "Hellraiser: Hellseeker",
+        "score": "4.90"
+    },
+    "m50": {
+        "year": "2001",
+        "genre": [
+            "drama",
+            "mystery",
+            "sci-fi"
+        ],
+        "count": "215194",
+        "title": "Donnie Darko",
+        "score": "8.30"
+    },
+    "m515": {
+        "year": "1985",
+        "genre": [
+            "adventure",
+            "drama",
+            "horror",
+            "mystery",
+            "thriller"
+        ],
+        "count": "6498",
+        "title": "Silver Bullet",
+        "score": "5.90"
+    },
+    "m44": {
+        "year": "1999",
+        "genre": [
+            "drama",
+            "romance"
+        ],
+        "count": "38836",
+        "title": "The Cider House Rules",
+        "score": "7.50"
+    },
+    "m386": {
+        "year": "1992",
+        "genre": [
+            "comedy",
+            "drama"
+        ],
+        "count": "10573",
+        "title": "Hero",
+        "score": "6.30"
+    },
+    "m369": {
+        "year": "1974",
+        "genre": [
+            "crime",
+            "drama",
+            "thriller"
+        ],
+        "count": "251290",
+        "title": "The Godfather: Part Ii",
+        "score": "9.00"
+    },
+    "m174": {
+        "year": "1943",
+        "genre": [
+            "drama",
+            "horror",
+            "thriller"
+        ],
+        "count": "1596",
+        "title": "The Seventh Victim",
+        "score": "6.90"
+    },
+    "m122": {
+        "year": "1976",
+        "genre": [
+            "action",
+            "sci-fi"
+        ],
+        "count": "15152",
+        "title": "Logan'S Run",
+        "score": "6.70"
+    },
+    "m324": {
+        "year": "1975",
+        "genre": [
+            "crime",
+            "drama"
+        ],
+        "count": "61120",
+        "title": "Dog Day Afternoon",
+        "score": "8.20"
+    },
+    "m98": {
+        "year": "1989",
+        "genre": [
+            "action",
+            "adventure",
+            "thriller",
+            "action",
+            "adventure",
+            "fantasy"
+        ],
+        "count": "174947",
+        "title": "Indiana Jones And The Last Crusade",
+        "score": "8.30"
+    },
+    "m545": {
+        "year": "1997",
+        "genre": [
+            "drama"
+        ],
+        "count": "16463",
+        "title": "The Sweet Hereafter",
+        "score": "7.80"
+    },
+    "m571": {
+        "year": "1971",
+        "genre": [
+            "drama",
+            "mystery",
+            "sci-fi",
+            "thriller"
+        ],
+        "count": "15741",
+        "title": "Thx 1138",
+        "score": "6.80"
+    },
+    "m603": {
+        "year": "1996",
+        "genre": [
+            "documentary",
+            "short"
+        ],
+        "count": "69",
+        "title": "The Witching Hour",
+        "score": "6.50"
+    },
+    "m138": {
+        "year": "1998",
+        "genre": [
+            "short"
+        ],
+        "count": "70",
+        "title": "My Mother Dreams The Satan'S Disciples In New York",
+        "score": "6.70"
+    },
+    "m565": {
+        "year": "2009",
+        "genre": [
+            "drama",
+            "romance",
+            "war"
+        ],
+        "count": "9224",
+        "title": "The Messenger",
+        "score": "7.40"
+    },
+    "m455": {
+        "year": "1964",
+        "genre": [
+            "drama",
+            "romance"
+        ],
+        "count": "448",
+        "title": "Nothing But A Man",
+        "score": "7.80"
+    },
+    "m221": {
+        "year": "1990",
+        "genre": [
+            "action",
+            "adventure",
+            "sci-fi",
+            "thriller"
+        ],
+        "count": "71383",
+        "title": "Total Recall",
+        "score": "7.40"
+    },
+    "m371": {
+        "year": "2000",
+        "genre": [
+            "action",
+            "crime",
+            "thriller"
+        ],
+        "count": "74474",
+        "title": "Gone In Sixty Seconds",
+        "score": "6.00"
+    },
+    "m43": {
+        "year": "2000",
+        "genre": [
+            "adventure",
+            "drama"
+        ],
+        "count": "104477",
+        "title": "Cast Away",
+        "score": "7.50"
+    },
+    "m503": {
+        "year": "1989",
+        "genre": [
+            "comedy",
+            "drama",
+            "romance"
+        ],
+        "count": "25220",
+        "title": "Say Anything...",
+        "score": "7.50"
+    },
+    "m458": {
+        "year": "1999",
+        "genre": [
+            "comedy",
+            "drama",
+            "romance"
+        ],
+        "count": "27409",
+        "title": "Never Been Kissed",
+        "score": "5.70"
+    },
+    "m79": {
+        "year": "1990",
+        "genre": [
+            "crime",
+            "drama",
+            "thriller"
+        ],
+        "count": "11481",
+        "title": "The Grifters",
+        "score": "7.00"
+    },
+    "m229": {
+        "year": "1990",
+        "genre": [
+            "crime",
+            "romance",
+            "thriller"
+        ],
+        "count": "29388",
+        "title": "Wild At Heart",
+        "score": "7.20"
+    },
+    "m499": {
+        "year": "1993",
+        "genre": [
+            "comedy",
+            "romance",
+            "drama"
+        ],
+        "count": "44179",
+        "title": "Sleepless In Seattle",
+        "score": "6.60"
+    },
+    "m311": {
+        "year": "1994",
+        "genre": [
+            "action",
+            "crime",
+            "fantasy",
+            "thriller"
+        ],
+        "count": "55886",
+        "title": "The Crow",
+        "score": "7.60"
+    },
+    "m242": {
+        "year": "1997",
+        "genre": [
+            "animation",
+            "adventure",
+            "drama",
+            "family",
+            "musical",
+            "animation",
+            "family"
+        ],
+        "count": "16844",
+        "title": "Anastasia",
+        "score": "6.60"
+    },
+    "m581": {
+        "year": "2000",
+        "genre": [
+            "crime",
+            "drama",
+            "thriller"
+        ],
+        "count": "86662",
+        "title": "Traffic",
+        "score": "7.80"
+    },
+    "m457": {
+        "year": "1988",
+        "genre": [
+            "action",
+            "adventure",
+            "animation",
+            "sci-fi"
+        ],
+        "count": "48",
+        "title": "Neuromancer",
+        "score": "9.30"
+    },
+    "m100": {
+        "year": "1987",
+        "genre": [
+            "action",
+            "adventure",
+            "comedy",
+            "crime",
+            "sci-fi"
+        ],
+        "count": "16854",
+        "title": "Innerspace",
+        "score": "6.50"
+    },
+    "m355": {
+        "year": "1985",
+        "genre": [
+            "comedy",
+            "crime",
+            "mystery"
+        ],
+        "count": "17336",
+        "title": "Fletch",
+        "score": "6.70"
+    },
+    "m538": {
+        "year": "2001",
+        "genre": [
+            "comedy",
+            "crime"
+        ],
+        "count": "6981",
+        "title": "Sugar & Spice",
+        "score": "5.20"
+    },
+    "m368": {
+        "year": "1992",
+        "genre": [
+            "drama"
+        ],
+        "count": "32882",
+        "title": "Glengarry Glen Ross",
+        "score": "7.90"
+    },
+    "m55": {
+        "year": "2004",
+        "genre": [
+            "drama",
+            "romance",
+            "sci-fi"
+        ],
+        "count": "224838",
+        "title": "Eternal Sunshine Of The Spotless Mind",
+        "score": "8.50"
+    },
+    "m427": {
+        "year": "2000",
+        "genre": [
+            "drama",
+            "romance",
+            "sport"
+        ],
+        "count": "5907",
+        "title": "Love & Basketball",
+        "score": "6.70"
+    },
+    "m90": {
+        "year": "1940",
+        "genre": [
+            "comedy",
+            "drama",
+            "romance"
+        ],
+        "count": "20870",
+        "title": "His Girl Friday",
+        "score": "8.10"
+    },
+    "m477": {
+        "year": "1991",
+        "genre": [
+            "action",
+            "adventure",
+            "crime",
+            "drama",
+            "sport",
+            "thriller"
+        ],
+        "count": "37722",
+        "title": "Point Break",
+        "score": "6.90"
+    },
+    "m230": {
+        "year": "2000",
+        "genre": [
+            "drama",
+            "comedy"
+        ],
+        "count": "31853",
+        "title": "Wonder Boys",
+        "score": "7.50"
+    },
+    "m409": {
+        "year": "2001",
+        "genre": [
+            "action",
+            "adventure",
+            "sci-fi",
+            "thriller"
+        ],
+        "count": "62564",
+        "title": "Jurassic Park Iii",
+        "score": "5.70"
+    },
+    "m501": {
+        "year": "2002",
+        "genre": [
+            "crime",
+            "drama",
+            "mystery",
+            "thriller"
+        ],
+        "count": "16669",
+        "title": "The Salton Sea",
+        "score": "7.10"
+    },
+    "m559": {
+        "year": "2000",
+        "genre": [
+            "adventure",
+            "drama",
+            "romance",
+            "thriller"
+        ],
+        "count": "55734",
+        "title": "The Beach",
+        "score": "6.30"
+    },
+    "m46": {
+        "year": "1998",
+        "genre": [
+            "crime",
+            "drama"
+        ],
+        "count": "9060",
+        "title": "Croupier",
+        "score": "7.20"
+    },
+    "m224": {
+        "year": "1992",
+        "genre": [
+            "drama",
+            "horror",
+            "mystery",
+            "thriller"
+        ],
+        "count": "21274",
+        "title": "Twin Peaks: Fire Walk With Me",
+        "score": "7.00"
+    },
+    "m215": {
+        "year": "2005",
+        "genre": [
+            "drama",
+            "fantasy",
+            "mystery",
+            "sci-fi",
+            "thriller"
+        ],
+        "count": "36581",
+        "title": "The Jacket",
+        "score": "7.10"
+    },
+    "m395": {
+        "year": "1994",
+        "genre": [
+            "comedy",
+            "drama",
+            "fantasy",
+            "romance"
+        ],
+        "count": "32691",
+        "title": "The Hudsucker Proxy",
+        "score": "7.40"
+    },
+    "m361": {
+        "year": "1993",
+        "genre": [
+            "horror",
+            "thriller"
+        ],
+        "count": "8894",
+        "title": "Jason Goes To Hell: The Final Friday",
+        "score": "4.10"
+    },
+    "m177": {
+        "year": "1981",
+        "genre": [
+            "comedy",
+            "musical"
+        ],
+        "count": "1884",
+        "title": "Shock Treatment",
+        "score": "5.40"
+    },
+    "m190": {
+        "year": "1953",
+        "genre": [
+            "drama",
+            "war"
+        ],
+        "count": "21182",
+        "title": "Stalag 17",
+        "score": "8.20"
+    },
+    "m428": {
+        "year": "1999",
+        "genre": [
+            "drama"
+        ],
+        "count": "123476",
+        "title": "Magnolia",
+        "score": "8.00"
+    },
+    "m258": {
+        "year": "1996",
+        "genre": [
+            "biography",
+            "drama"
+        ],
+        "count": "8016",
+        "title": "Basquiat",
+        "score": "6.70"
+    },
+    "m394": {
+        "year": "1991",
+        "genre": [
+            "action",
+            "adventure",
+            "comedy",
+            "action",
+            "adventure",
+            "comedy",
+            "crime"
+        ],
+        "count": "22116",
+        "title": "Hudson Hawk",
+        "score": "5.40"
+    },
+    "m40": {
+        "year": "1995",
+        "genre": [
+            "action",
+            "biography",
+            "drama",
+            "history",
+            "war"
+        ],
+        "count": "245652",
+        "title": "Braveheart",
+        "score": "8.40"
+    },
+    "m13": {
+        "year": "1980",
+        "genre": [
+            "comedy",
+            "romance"
+        ],
+        "count": "57692",
+        "title": "Airplane!",
+        "score": "7.80"
+    },
+    "m41": {
+        "year": "2004",
+        "genre": [
+            "drama",
+            "mystery",
+            "sci-fi",
+            "thriller"
+        ],
+        "count": "104917",
+        "title": "The Butterfly Effect",
+        "score": "7.80"
+    },
+    "m419": {
+        "year": "1991",
+        "genre": [
+            "crime",
+            "thriller"
+        ],
+        "count": "251237",
+        "title": "The Silence Of The Lambs",
+        "score": "8.70"
+    },
+    "m586": {
+        "year": "1993",
+        "genre": [
+            "crime",
+            "romance",
+            "thriller"
+        ],
+        "count": "74762",
+        "title": "True Romance",
+        "score": "7.90"
+    },
+    "m140": {
+        "year": "1936",
+        "genre": [
+            "comedy",
+            "romance"
+        ],
+        "count": "7594",
+        "title": "Mr. Deeds Goes To Town",
+        "score": "8.00"
+    },
+    "m316": {
+        "year": "1993",
+        "genre": [
+            "comedy",
+            "romance"
+        ],
+        "count": "20807",
+        "title": "Dave",
+        "score": "6.80"
+    },
+    "m109": {
+        "year": "2007",
+        "genre": [
+            "comedy",
+            "drama"
+        ],
+        "count": "152436",
+        "title": "Juno",
+        "score": "7.90"
+    },
+    "m245": {
+        "year": "1998",
+        "genre": [
+            "animation",
+            "adventure",
+            "comedy",
+            "family"
+        ],
+        "count": "37825",
+        "title": "Antz",
+        "score": "6.80"
+    },
+    "m135": {
+        "year": "1994",
+        "genre": [
+            "action",
+            "family"
+        ],
+        "count": "35",
+        "title": "Mighty Morphin Power Rangers",
+        "score": "8.20"
+    },
+    "m301": {
+        "year": "1971",
+        "genre": [
+            "crime",
+            "drama",
+            "sci-fi"
+        ],
+        "count": "197372",
+        "title": "A Clockwork Orange",
+        "score": "8.50"
+    },
+    "m493": {
+        "year": "1968",
+        "genre": [
+            "drama",
+            "romance"
+        ],
+        "count": "12360",
+        "title": "Romeo And Juliet",
+        "score": "7.80"
+    },
+    "m292": {
+        "year": "1992",
+        "genre": [
+            "drama",
+            "thriller"
+        ],
+        "count": "21394",
+        "title": "The Crying Game",
+        "score": "7.30"
+    },
+    "m26": {
+        "year": "1992",
+        "genre": [
+            "crime",
+            "drama"
+        ],
+        "count": "13908",
+        "title": "Bad Lieutenant",
+        "score": "6.90"
+    },
+    "m295": {
+        "year": "1999",
+        "genre": [
+            "action",
+            "adventure",
+            "comedy",
+            "thriller"
+        ],
+        "count": "5381",
+        "title": "Chill Factor",
+        "score": "4.90"
+    },
+    "m32": {
+        "year": "2006",
+        "genre": [
+            "drama"
+        ],
+        "count": "28509",
+        "title": "Black Snake Moan",
+        "score": "7.10"
+    },
+    "m317": {
+        "year": "1985",
+        "genre": [
+            "horror",
+            "sci-fi"
+        ],
+        "count": "22746",
+        "title": "Day Of The Dead",
+        "score": "7.00"
+    },
+    "m256": {
+        "year": "1991",
+        "genre": [
+            "drama",
+            "mystery",
+            "thriller"
+        ],
+        "count": "33119",
+        "title": "Barton Fink",
+        "score": "7.80"
+    },
+    "m446": {
+        "year": "1997",
+        "genre": [
+            "biography",
+            "drama",
+            "history",
+            "romance"
+        ],
+        "count": "5701",
+        "title": "Mrs Brown",
+        "score": "7.20"
+    },
+    "m128": {
+        "year": "1992",
+        "genre": [
+            "biography",
+            "drama",
+            "history"
+        ],
+        "count": "23317",
+        "title": "Malcolm X",
+        "score": "7.70"
+    },
+    "m263": {
+        "year": "1997",
+        "genre": [
+            "comedy",
+            "family"
+        ],
+        "count": "27131",
+        "title": "Bean",
+        "score": "5.80"
+    },
+    "m438": {
+        "year": "1969",
+        "genre": [
+            "drama"
+        ],
+        "count": "34405",
+        "title": "Midnight Cowboy",
+        "score": "8.00"
+    },
+    "m235": {
+        "year": "1964",
+        "genre": [
+            "comedy",
+            "music"
+        ],
+        "count": "15431",
+        "title": "A Hard Day'S Night",
+        "score": "7.60"
+    },
+    "m436": {
+        "year": "2000",
+        "genre": [
+            "crime",
+            "drama",
+            "mystery",
+            "thriller"
+        ],
+        "count": "281027",
+        "title": "Memento",
+        "score": "8.70"
+    },
+    "m101": {
+        "year": "1999",
+        "genre": [
+            "biography",
+            "drama",
+            "thriller"
+        ],
+        "count": "69660",
+        "title": "The Insider",
+        "score": "8.00"
+    },
+    "m505": {
+        "year": "1997",
+        "genre": [
+            "horror",
+            "mystery",
+            "thriller"
+        ],
+        "count": "48988",
+        "title": "Scream 2",
+        "score": "5.90"
+    },
+    "m423": {
+        "year": "1996",
+        "genre": [
+            "drama",
+            "mystery",
+            "romance",
+            "western"
+        ],
+        "count": "14666",
+        "title": "Lone Star",
+        "score": "7.60"
+    },
+    "m157": {
+        "year": "2000",
+        "genre": [
+            "action",
+            "drama",
+            "war"
+        ],
+        "count": "79207",
+        "title": "The Patriot",
+        "score": "6.90"
+    },
+    "m492": {
+        "year": "1988",
+        "genre": [
+            "animation",
+            "comedy",
+            "crime",
+            "family",
+            "fantasy",
+            "mystery",
+            "animation",
+            "adventure",
+            "action",
+            "fantasy"
+        ],
+        "count": "54375",
+        "title": "Who Framed Roger Rabbit",
+        "score": "7.60"
+    },
+    "m248": {
+        "year": "1993",
+        "genre": [
+            "action",
+            "thriller"
+        ],
+        "count": "464",
+        "title": "Arctic Blue",
+        "score": "4.80"
+    },
+    "m510": {
+        "year": "2000",
+        "genre": [
+            "drama",
+            "horror",
+            "thriller"
+        ],
+        "count": "1150",
+        "title": "Seven Days To Live",
+        "score": "5.20"
+    },
+    "m543": {
+        "year": "1987",
+        "genre": [
+            "action",
+            "adventure",
+            "family",
+            "fantasy",
+            "sci-fi"
+        ],
+        "count": "15332",
+        "title": "Superman Iv: The Quest For Peace",
+        "score": "3.40"
+    },
+    "m377": {
+        "year": "1995",
+        "genre": [
+            "action",
+            "crime",
+            "drama",
+            "thriller"
+        ],
+        "count": "27009",
+        "title": "Hackers",
+        "score": "5.80"
+    },
+    "m335": {
+        "year": "1999",
+        "genre": [
+            "action",
+            "crime",
+            "romance",
+            "thriller"
+        ],
+        "count": "41120",
+        "title": "Entrapment",
+        "score": "6.10"
+    },
+    "m413": {
+        "year": "1991",
+        "genre": [
+            "comedy",
+            "drama",
+            "mystery",
+            "sci-fi",
+            "thriller"
+        ],
+        "count": "4467",
+        "title": "Kafka",
+        "score": "6.90"
+    },
+    "m485": {
+        "year": "1933",
+        "genre": [
+            "horror",
+            "mystery",
+            "thriller"
+        ],
+        "count": "1740",
+        "title": "Mystery Of The Wax Museum",
+        "score": "6.80"
+    },
+    "m584": {
+        "year": "1982",
+        "genre": [
+            "action",
+            "adventure",
+            "sci-fi",
+            "thriller",
+            "sci-fi"
+        ],
+        "count": "25903",
+        "title": "Tron",
+        "score": "6.70"
+    },
+    "m58": {
+        "year": "2005",
+        "genre": [
+            "action",
+            "adventure",
+            "fantasy",
+            "sci-fi",
+            "fantasy"
+        ],
+        "count": "72581",
+        "title": "Fantastic Four",
+        "score": "5.70"
+    },
+    "m408": {
+        "year": "1996",
+        "genre": [
+            "comedy",
+            "drama",
+            "romance",
+            "sport"
+        ],
+        "count": "79706",
+        "title": "Jerry Maguire",
+        "score": "7.30"
+    },
+    "m465": {
+        "year": "1954",
+        "genre": [
+            "crime",
+            "drama",
+            "romance"
+        ],
+        "count": "42010",
+        "title": "On The Waterfront",
+        "score": "8.40"
+    },
+    "m33": {
+        "year": "1989",
+        "genre": [
+            "action",
+            "crime",
+            "drama",
+            "thriller"
+        ],
+        "count": "16249",
+        "title": "Black Rain",
+        "score": "6.40"
+    },
+    "m182": {
+        "year": "1999",
+        "genre": [
+            "drama",
+            "mystery",
+            "thriller"
+        ],
+        "count": "244162",
+        "title": "The Sixth Sense",
+        "score": "8.20"
+    },
+    "m69": {
+        "year": "2000",
+        "genre": [
+            "drama"
+        ],
+        "count": "3142",
+        "title": "George Washington",
+        "score": "7.50"
+    },
+    "m172": {
+        "year": "2001",
+        "genre": [
+            "comedy"
+        ],
+        "count": "44511",
+        "title": "Scary Movie 2",
+        "score": "4.70"
+    },
+    "m387": {
+        "year": "1989",
+        "genre": [
+            "thriller"
+        ],
+        "count": "394",
+        "title": "Hider In The House",
+        "score": "5.60"
+    },
+    "m435": {
+        "year": "1998",
+        "genre": [
+            "drama",
+            "fantasy",
+            "mystery",
+            "romance"
+        ],
+        "count": "56839",
+        "title": "Meet Joe Black",
+        "score": "6.90"
+    },
+    "m281": {
+        "year": "1996",
+        "genre": [
+            "crime",
+            "drama",
+            "thriller"
+        ],
+        "count": "23772",
+        "title": "Bound",
+        "score": "7.50"
+    },
+    "m16": {
+        "year": "1984",
+        "genre": [
+            "biography",
+            "drama",
+            "music"
+        ],
+        "count": "99138",
+        "title": "Amadeus",
+        "score": "8.40"
+    },
+    "m476": {
+        "year": "1983",
+        "genre": [
+            "drama"
+        ],
+        "count": "154",
+        "title": "The Ploughman'S Lunch",
+        "score": "6.80"
+    },
+    "m34": {
+        "year": "1982",
+        "genre": [
+            "drama",
+            "sci-fi",
+            "thriller"
+        ],
+        "count": "188735",
+        "title": "Blade Runner",
+        "score": "8.30"
+    },
+    "m410": {
+        "year": "1997",
+        "genre": [
+            "action",
+            "adventure",
+            "sci-fi",
+            "thriller",
+            "action",
+            "adventure",
+            "animation",
+            "horror",
+            "sci-fi",
+            "thriller"
+        ],
+        "count": "78169",
+        "title": "The Lost World: Jurassic Park",
+        "score": "6.00"
+    },
+    "m607": {
+        "year": "1999",
+        "genre": [
+            "action",
+            "western",
+            "comedy",
+            "sci-fi"
+        ],
+        "count": "54943",
+        "title": "Wild Wild West",
+        "score": "4.30"
+    },
+    "m451": {
+        "year": "1991",
+        "genre": [
+            "comedy",
+            "drama",
+            "family",
+            "romance"
+        ],
+        "count": "17967",
+        "title": "My Girl",
+        "score": "6.40"
+    },
+    "m535": {
+        "year": "2007",
+        "genre": [
+            "action",
+            "adventure",
+            "crime"
+        ],
+        "count": "907",
+        "title": "Stranglehold",
+        "score": "8.60"
+    },
+    "m12": {
+        "year": "1982",
+        "genre": [
+            "comedy",
+            "romance",
+            "sci-fi"
+        ],
+        "count": "15210",
+        "title": "Airplane Ii: The Sequel",
+        "score": "5.80"
+    },
+    "m484": {
+        "year": "1932",
+        "genre": [
+            "fantasy",
+            "horror"
+        ],
+        "count": "4005",
+        "title": "Vampyr",
+        "score": "7.60"
+    },
+    "m123": {
+        "year": "1997",
+        "genre": [
+            "drama",
+            "horror",
+            "mystery",
+            "thriller"
+        ],
+        "count": "42998",
+        "title": "Lost Highway",
+        "score": "7.60"
+    },
+    "m563": {
+        "year": "1943",
+        "genre": [
+            "drama",
+            "horror",
+            "mystery",
+            "thriller"
+        ],
+        "count": "1518",
+        "title": "The Leopard Man",
+        "score": "6.90"
+    },
+    "m202": {
+        "year": "1996",
+        "genre": [
+            "comedy",
+            "drama"
+        ],
+        "count": "32427",
+        "title": "Swingers",
+        "score": "7.60"
+    },
+    "m481": {
+        "year": "1968",
+        "genre": [
+            "comedy"
+        ],
+        "count": "19432",
+        "title": "The Producers",
+        "score": "7.70"
+    },
+    "m397": {
+        "year": "1997",
+        "genre": [
+            "drama"
+        ],
+        "count": "27724",
+        "title": "The Ice Storm",
+        "score": "7.50"
+    },
+    "m125": {
+        "year": "1997",
+        "genre": [
+            "action",
+            "adventure",
+            "comedy",
+            "sci-fi"
+        ],
+        "count": "121719",
+        "title": "Men In Black",
+        "score": "7.00"
+    },
+    "m238": {
+        "year": "1950",
+        "genre": [
+            "drama"
+        ],
+        "count": "35597",
+        "title": "All About Eve",
+        "score": "8.50"
+    },
+    "m448": {
+        "year": "2001",
+        "genre": [
+            "drama",
+            "mystery",
+            "thriller"
+        ],
+        "count": "105859",
+        "title": "Mulholland Dr.",
+        "score": "8.00"
+    },
+    "m327": {
+        "year": "2003",
+        "genre": [
+            "comedy"
+        ],
+        "count": "14984",
+        "title": "Dumb And Dumberer: When Harry Met Lloyd",
+        "score": "3.30"
+    },
+    "m486": {
+        "year": "2000",
+        "genre": [
+            "short",
+            "adventure",
+            "drama",
+            "romance"
+        ],
+        "count": "47",
+        "title": "Quantum Project",
+        "score": "4.80"
+    },
+    "m2": {
+        "year": "2001",
+        "genre": [
+            "action",
+            "crime",
+            "drama",
+            "thriller"
+        ],
+        "count": "25854",
+        "title": "15 Minutes",
+        "score": "6.10"
+    },
+    "m45": {
+        "year": "2003",
+        "genre": [
+            "crime",
+            "thriller"
+        ],
+        "count": "17235",
+        "title": "Confidence",
+        "score": "6.80"
+    },
+    "m315": {
+        "year": "1998",
+        "genre": [
+            "mystery",
+            "sci-fi",
+            "thriller"
+        ],
+        "count": "64262",
+        "title": "Dark City",
+        "score": "7.80"
+    },
+    "m546": {
+        "year": "1957",
+        "genre": [
+            "drama",
+            "film-noir"
+        ],
+        "count": "9014",
+        "title": "Sweet Smell Of Success",
+        "score": "8.20"
+    },
+    "m304": {
+        "year": "1997",
+        "genre": [
+            "drama",
+            "mystery",
+            "sci-fi",
+            "thriller"
+        ],
+        "count": "75043",
+        "title": "Contact",
+        "score": "7.40"
+    },
+    "m373": {
+        "year": "1997",
+        "genre": [
+            "drama"
+        ],
+        "count": "154419",
+        "title": "Good Will Hunting",
+        "score": "8.10"
+    },
+    "m217": {
+        "year": "1998",
+        "genre": [
+            "comedy",
+            "romance"
+        ],
+        "count": "97546",
+        "title": "There'S Something About Mary",
+        "score": "7.20"
+    },
+    "m199": {
+        "year": "1984",
+        "genre": [
+            "adventure",
+            "drama",
+            "romance",
+            "sci-fi"
+        ],
+        "count": "14204",
+        "title": "Starman",
+        "score": "6.90"
+    },
+    "m178": {
+        "year": "2004",
+        "genre": [
+            "comedy",
+            "drama",
+            "romance"
+        ],
+        "count": "70349",
+        "title": "Sideways",
+        "score": "7.80"
+    },
+    "m502": {
+        "year": "1998",
+        "genre": [
+            "action",
+            "drama",
+            "history",
+            "war"
+        ],
+        "count": "275666",
+        "title": "Saving Private Ryan",
+        "score": "8.50"
+    },
+    "m541": {
+        "year": "1983",
+        "genre": [
+            "action",
+            "adventure",
+            "comedy",
+            "fantasy",
+            "sci-fi"
+        ],
+        "count": "18340",
+        "title": "Superman Iii",
+        "score": "4.70"
+    },
+    "m186": {
+        "year": "2006",
+        "genre": [
+            "action",
+            "crime",
+            "drama",
+            "thriller"
+        ],
+        "count": "58048",
+        "title": "Smokin' Aces",
+        "score": "6.60"
+    },
+    "m536": {
+        "year": "1964",
+        "genre": [
+            "comedy",
+            "drama"
+        ],
+        "count": "158529",
+        "title": "Dr. Strangelove Or: How I Learned To Stop Worrying And Love The Bomb",
+        "score": "8.60"
+    },
+    "m276": {
+        "year": "2001",
+        "genre": [
+            "biography",
+            "crime",
+            "drama"
+        ],
+        "count": "71334",
+        "title": "Blow",
+        "score": "7.40"
+    },
+    "m461": {
+        "year": "1987",
+        "genre": [
+            "fantasy",
+            "horror",
+            "thriller"
+        ],
+        "count": "17734",
+        "title": "A Nightmare On Elm Street 3: Dream Warriors",
+        "score": "6.30"
+    },
+    "m403": {
+        "year": "1978",
+        "genre": [
+            "thriller"
+        ],
+        "count": "18995",
+        "title": "Jaws 2",
+        "score": "5.60"
+    },
+    "m18": {
+        "year": "1932",
+        "genre": [
+            "drama"
+        ],
+        "count": "702",
+        "title": "American Madness",
+        "score": "7.40"
+    },
+    "m343": {
+        "year": "1997",
+        "genre": [
+            "action",
+            "crime",
+            "drama",
+            "sci-fi",
+            "thriller"
+        ],
+        "count": "103386",
+        "title": "Face/Off",
+        "score": "7.30"
+    },
+    "m188": {
+        "year": "1987",
+        "genre": [
+            "action",
+            "crime",
+            "drama",
+            "romance",
+            "thriller"
+        ],
+        "count": "3909",
+        "title": "Someone To Watch Over Me",
+        "score": "6.10"
+    },
+    "m241": {
+        "year": "1997",
+        "genre": [
+            "horror",
+            "romance",
+            "thriller",
+            "comedy"
+        ],
+        "count": "10158",
+        "title": "An American Werewolf In Paris",
+        "score": "4.90"
+    },
+    "m227": {
+        "year": "1994",
+        "genre": [
+            "fantasy",
+            "horror",
+            "mystery",
+            "thriller"
+        ],
+        "count": "14975",
+        "title": "New Nightmare",
+        "score": "6.30"
+    },
+    "m588": {
+        "year": "1973",
+        "genre": [
+            "drama"
+        ],
+        "count": "37",
+        "title": "U-Turn",
+        "score": "5.80"
+    },
+    "m442": {
+        "year": "2000",
+        "genre": [
+            "action",
+            "adventure",
+            "thriller"
+        ],
+        "count": "86452",
+        "title": "Mission: Impossible Ii",
+        "score": "5.70"
+    },
+    "m255": {
+        "year": "1984",
+        "genre": [
+            "adventure",
+            "romance",
+            "comedy",
+            "sci-fi"
+        ],
+        "count": "10046",
+        "title": "The Adventures Of Buckaroo Banzai Across The 8Th Dimension",
+        "score": "6.00"
+    },
+    "m379": {
+        "year": "1978",
+        "genre": [
+            "horror",
+            "thriller"
+        ],
+        "count": "64690",
+        "title": "Halloween",
+        "score": "7.90"
+    },
+    "m251": {
+        "year": "2005",
+        "genre": [
+            "drama",
+            "romance",
+            "thriller"
+        ],
+        "count": "2395",
+        "title": "Asylum",
+        "score": "6.10"
+    },
+    "m216": {
+        "year": "1991",
+        "genre": [
+            "crime",
+            "drama",
+            "thriller"
+        ],
+        "count": "44372",
+        "title": "Thelma & Louise",
+        "score": "7.30"
+    },
+    "m374": {
+        "year": "1940",
+        "genre": [
+            "drama"
+        ],
+        "count": "23850",
+        "title": "The Grapes Of Wrath",
+        "score": "8.30"
+    },
+    "m378": {
+        "year": "1988",
+        "genre": [
+            "horror",
+            "thriller"
+        ],
+        "count": "11315",
+        "title": "Halloween 4: The Return Of Michael Myers",
+        "score": "5.60"
+    },
+    "m568": {
+        "year": "1973",
+        "genre": [
+            "comedy",
+            "crime",
+            "drama"
+        ],
+        "count": "67231",
+        "title": "The Sting",
+        "score": "8.40"
+    },
+    "m508": {
+        "year": "1979",
+        "genre": [
+            "action",
+            "drama"
+        ],
+        "count": "259",
+        "title": "Seven",
+        "score": "6.10"
+    },
+    "m297": {
+        "year": "1988",
+        "genre": [
+            "comedy",
+            "drama",
+            "romance"
+        ],
+        "count": "46801",
+        "title": "Nuovo Cinema Paradiso",
+        "score": "8.50"
+    },
+    "m309": {
+        "year": "2003",
+        "genre": [
+            "action",
+            "comedy",
+            "crime"
+        ],
+        "count": "3129",
+        "title": "Crime Spree",
+        "score": "6.40"
+    },
+    "m59": {
+        "year": "1982",
+        "genre": [
+            "comedy",
+            "drama",
+            "romance"
+        ],
+        "count": "31710",
+        "title": "Fast Times At Ridgemont High",
+        "score": "7.20"
+    },
+    "m303": {
+        "year": "1997",
+        "genre": [
+            "action",
+            "crime",
+            "mystery",
+            "romance",
+            "thriller"
+        ],
+        "count": "36045",
+        "title": "Conspiracy Theory",
+        "score": "6.50"
+    },
+    "m104": {
+        "year": "1991",
+        "genre": [
+            "biography",
+            "drama",
+            "history",
+            "mystery",
+            "thriller"
+        ],
+        "count": "60406",
+        "title": "Jfk",
+        "score": "8.00"
+    },
+    "m354": {
+        "year": "2000",
+        "genre": [
+            "short"
+        ],
+        "count": "326",
+        "title": "Five Feet High And Rising",
+        "score": "6.50"
+    },
+    "m614": {
+        "year": "2000",
+        "genre": [
+            "action",
+            "sci-fi"
+        ],
+        "count": "122149",
+        "title": "X-Men",
+        "score": "7.40"
+    },
+    "m598": {
+        "year": "1997",
+        "genre": [
+            "comedy",
+            "drama"
+        ],
+        "count": "36448",
+        "title": "Wag The Dog",
+        "score": "7.10"
+    },
+    "m10": {
+        "year": "1997",
+        "genre": [
+            "drama",
+            "mystery",
+            "thriller"
+        ],
+        "count": "7252",
+        "title": "Affliction",
+        "score": "6.90"
+    },
+    "m260": {
+        "year": "1949",
+        "genre": [
+            "action",
+            "adventure",
+            "crime",
+            "drama",
+            "sci-fi"
+        ],
+        "count": "443",
+        "title": "Batman And Robin",
+        "score": "6.50"
+    },
+    "m38": {
+        "year": "1996",
+        "genre": [
+            "comedy",
+            "crime"
+        ],
+        "count": "22303",
+        "title": "Bottle Rocket",
+        "score": "7.20"
+    },
+    "m498": {
+        "year": "1999",
+        "genre": [
+            "comedy",
+            "romance"
+        ],
+        "count": "28793",
+        "title": "Runaway Bride",
+        "score": "5.20"
+    },
+    "m115": {
+        "year": "1998",
+        "genre": [],
+        "count": "45",
+        "title": "Labor Of Love",
+        "score": "4.50"
+    },
+    "m340": {
+        "year": "1981",
+        "genre": [
+            "adventure",
+            "drama",
+            "fantasy"
+        ],
+        "count": "24550",
+        "title": "Excalibur",
+        "score": "7.40"
+    },
+    "m407": {
+        "year": "1992",
+        "genre": [
+            "thriller",
+            "mystery"
+        ],
+        "count": "6224",
+        "title": "Jennifer Eight",
+        "score": "6.20"
+    },
+    "m517": {
+        "year": "1999",
+        "genre": [
+            "fantasy",
+            "mystery",
+            "thriller"
+        ],
+        "count": "108951",
+        "title": "Sleepy Hollow",
+        "score": "7.50"
+    },
+    "m567": {
+        "year": "1993",
+        "genre": [
+            "drama",
+            "romance"
+        ],
+        "count": "28525",
+        "title": "The Piano",
+        "score": "7.50"
+    },
+    "m557": {
+        "year": "2000",
+        "genre": [
+            "drama",
+            "fantasy",
+            "horror",
+            "sci-fi",
+            "thriller"
+        ],
+        "count": "37417",
+        "title": "The Cell",
+        "score": "6.20"
+    },
+    "m333": {
+        "year": "1998",
+        "genre": [
+            "action",
+            "drama",
+            "thriller"
+        ],
+        "count": "67504",
+        "title": "Enemy Of The State",
+        "score": "7.20"
+    },
+    "m520": {
+        "year": "1999",
+        "genre": [
+            "drama",
+            "mystery",
+            "romance",
+            "thriller"
+        ],
+        "count": "8483",
+        "title": "Snow Falling On Cedars",
+        "score": "6.70"
+    },
+    "m175": {
+        "year": "1989",
+        "genre": [
+            "drama"
+        ],
+        "count": "18505",
+        "title": "Sex, Lies, And Videotape",
+        "score": "7.10"
+    },
+    "m17": {
+        "year": "1981",
+        "genre": [
+            "horror",
+            "romance"
+        ],
+        "count": "24443",
+        "title": "An American Werewolf In London",
+        "score": "7.50"
+    },
+    "m506": {
+        "year": "2000",
+        "genre": [
+            "horror",
+            "mystery",
+            "thriller"
+        ],
+        "count": "38870",
+        "title": "Scream 3",
+        "score": "5.30"
+    },
+    "m464": {
+        "year": "1994",
+        "genre": [
+            "comedy",
+            "romance"
+        ],
+        "count": "6620",
+        "title": "Only You",
+        "score": "6.20"
+    },
+    "m63": {
+        "year": "1931",
+        "genre": [
+            "drama",
+            "horror",
+            "sci-fi"
+        ],
+        "count": "23522",
+        "title": "Frankenstein",
+        "score": "8.00"
+    },
+    "m274": {
+        "year": "1984",
+        "genre": [
+            "crime",
+            "drama",
+            "thriller"
+        ],
+        "count": "28901",
+        "title": "Blood Simple.",
+        "score": "7.80"
+    },
+    "m31": {
+        "year": "2001",
+        "genre": [
+            "comedy",
+            "crime",
+            "romance",
+            "thriller"
+        ],
+        "count": "13497",
+        "title": "Birthday Girl",
+        "score": "6.00"
+    },
+    "m370": {
+        "year": "1998",
+        "genre": [
+            "biography",
+            "drama"
+        ],
+        "count": "16063",
+        "title": "Gods And Monsters",
+        "score": "7.50"
+    },
+    "m76": {
+        "year": "2000",
+        "genre": [
+            "action",
+            "adventure",
+            "drama"
+        ],
+        "count": "286067",
+        "title": "Gladiator",
+        "score": "8.40"
+    },
+    "m599": {
+        "year": "1987",
+        "genre": [
+            "crime",
+            "drama"
+        ],
+        "count": "39082",
+        "title": "Wall Street",
+        "score": "7.30"
+    },
+    "m401": {
+        "year": "1945",
+        "genre": [
+            "drama",
+            "horror",
+            "mystery",
+            "thriller"
+        ],
+        "count": "1405",
+        "title": "Isle Of The Dead",
+        "score": "6.60"
+    },
+    "m331": {
+        "year": "1999",
+        "genre": [
+            "comedy",
+            "drama"
+        ],
+        "count": "37868",
+        "title": "Election",
+        "score": "7.40"
+    },
+    "m272": {
+        "year": "1998",
+        "genre": [
+            "action",
+            "adventure",
+            "fantasy",
+            "horror",
+            "thriller"
+        ],
+        "count": "65885",
+        "title": "Blade",
+        "score": "7.00"
+    },
+    "m522": {
+        "year": "1959",
+        "genre": [
+            "comedy"
+        ],
+        "count": "68749",
+        "title": "Some Like It Hot",
+        "score": "8.40"
+    },
+    "m87": {
+        "year": "1987",
+        "genre": [
+            "horror"
+        ],
+        "count": "22922",
+        "title": "Hellraiser",
+        "score": "7.00"
+    },
+    "m257": {
+        "year": "1992",
+        "genre": [
+            "mystery",
+            "romance",
+            "thriller"
+        ],
+        "count": "57615",
+        "title": "Basic Instinct",
+        "score": "6.90"
+    },
+    "m360": {
+        "year": "1986",
+        "genre": [
+            "comedy",
+            "horror",
+            "thriller"
+        ],
+        "count": "9919",
+        "title": "Jason Lives: Friday The 13Th Part Vi",
+        "score": "5.30"
+    },
+    "m270": {
+        "year": "2006",
+        "genre": [
+            "crime",
+            "drama",
+            "history",
+            "mystery",
+            "thriller"
+        ],
+        "count": "35706",
+        "title": "The Black Dahlia",
+        "score": "5.60"
+    },
+    "m339": {
+        "year": "1996",
+        "genre": [
+            "action",
+            "adventure",
+            "sci-fi",
+            "thriller"
+        ],
+        "count": "23551",
+        "title": "Escape From L.A.",
+        "score": "5.30"
+    },
+    "m278": {
+        "year": "1993",
+        "genre": [
+            "drama",
+            "romance",
+            "thriller"
+        ],
+        "count": "6052",
+        "title": "Body Of Evidence",
+        "score": "4.10"
+    },
+    "m527": {
+        "year": "1992",
+        "genre": [
+            "thriller"
+        ],
+        "count": "26",
+        "title": "Spare Me",
+        "score": "5.80"
+    },
+    "m400": {
+        "year": "1998",
+        "genre": [
+            "horror",
+            "mystery",
+            "thriller"
+        ],
+        "count": "23543",
+        "title": "I Still Know What You Did Last Summer",
+        "score": "4.10"
+    },
+    "m558": {
+        "year": "1949",
+        "genre": [
+            "film-noir",
+            "mystery",
+            "thriller"
+        ],
+        "count": "51872",
+        "title": "The Third Man",
+        "score": "8.50"
+    },
+    "m78": {
+        "year": "1932",
+        "genre": [
+            "drama",
+            "romance"
+        ],
+        "count": "6088",
+        "title": "Grand Hotel",
+        "score": "7.70"
+    },
+    "m404": {
+        "year": "1983",
+        "genre": [
+            "thriller"
+        ],
+        "count": "12839",
+        "title": "Jaws 3-D",
+        "score": "3.30"
+    },
+    "m453": {
+        "year": "1975",
+        "genre": [
+            "drama",
+            "music"
+        ],
+        "count": "9315",
+        "title": "Nashville",
+        "score": "7.70"
+    },
+    "m210": {
+        "year": "2000",
+        "genre": [
+            "action",
+            "crime",
+            "fantasy",
+            "mystery",
+            "thriller"
+        ],
+        "count": "4566",
+        "title": "The Crow: Salvation",
+        "score": "4.70"
+    },
+    "m71": {
+        "year": "2002",
+        "genre": [
+            "horror",
+            "mystery",
+            "thriller"
+        ],
+        "count": "26413",
+        "title": "Ghost Ship",
+        "score": "5.30"
+    },
+    "m113": {
+        "year": "1983",
+        "genre": [
+            "fantasy",
+            "action",
+            "adventure",
+            "sci-fi"
+        ],
+        "count": "8246",
+        "title": "Krull",
+        "score": "5.90"
+    },
+    "m416": {
+        "year": "1979",
+        "genre": [
+            "drama"
+        ],
+        "count": "25836",
+        "title": "Kramer Vs. Kramer",
+        "score": "7.70"
+    },
+    "m312": {
+        "year": "1999",
+        "genre": [
+            "drama",
+            "romance",
+            "thriller"
+        ],
+        "count": "67532",
+        "title": "Cruel Intentions",
+        "score": "6.70"
+    },
+    "m198": {
+        "year": "2002",
+        "genre": [
+            "action",
+            "sci-fi",
+            "thriller"
+        ],
+        "count": "28682",
+        "title": "Star Trek: Nemesis",
+        "score": "6.40"
+    },
+    "m595": {
+        "year": "1998",
+        "genre": [
+            "comedy",
+            "crime",
+            "thriller"
+        ],
+        "count": "22977",
+        "title": "Very Bad Things",
+        "score": "6.00"
+    },
+    "m189": {
+        "year": "2002",
+        "genre": [
+            "action",
+            "adventure",
+            "fantasy",
+            "sci-fi",
+            "action",
+            "adventure",
+            "sci-fi",
+            "thriller"
+        ],
+        "count": "169898",
+        "title": "Spider-Man",
+        "score": "7.40"
+    },
+    "m288": {
+        "year": "1988",
+        "genre": [
+            "comedy",
+            "romance",
+            "sport"
+        ],
+        "count": "18941",
+        "title": "Bull Durham",
+        "score": "7.00"
+    },
+    "m471": {
+        "year": "1993",
+        "genre": [
+            "drama"
+        ],
+        "count": "54221",
+        "title": "Philadelphia",
+        "score": "7.60"
+    },
+    "m166": {
+        "year": "1980",
+        "genre": [
+            "biography",
+            "drama",
+            "sport"
+        ],
+        "count": "91851",
+        "title": "Raging Bull",
+        "score": "8.40"
+    },
+    "m253": {
+        "year": "1985",
+        "genre": [
+            "adventure",
+            "family",
+            "sci-fi"
+        ],
+        "count": "207376",
+        "title": "Back To The Future",
+        "score": "8.40"
+    },
+    "m424": {
+        "year": "1995",
+        "genre": [
+            "fantasy",
+            "horror",
+            "mystery",
+            "thriller"
+        ],
+        "count": "5031",
+        "title": "Lord Of Illusions",
+        "score": "5.60"
+    },
+    "m608": {
+        "year": "1988",
+        "genre": [
+            "action",
+            "adventure",
+            "drama",
+            "fantasy",
+            "romance"
+        ],
+        "count": "33506",
+        "title": "Willow",
+        "score": "7.10"
+    },
+    "m89": {
+        "year": "1986",
+        "genre": [
+            "action",
+            "fantasy"
+        ],
+        "count": "41243",
+        "title": "Highlander",
+        "score": "7.20"
+    },
+    "m118": {
+        "year": "1985",
+        "genre": [
+            "fantasy",
+            "adventure",
+            "romance"
+        ],
+        "count": "20907",
+        "title": "Legend",
+        "score": "6.20"
+    },
+    "m561": {
+        "year": "1988",
+        "genre": [
+            "adventure",
+            "drama",
+            "romance"
+        ],
+        "count": "18313",
+        "title": "Le Grand Bleu",
+        "score": "7.40"
+    },
+    "m365": {
+        "year": "1997",
+        "genre": [
+            "drama",
+            "romance",
+            "sci-fi",
+            "thriller"
+        ],
+        "count": "72063",
+        "title": "Gattaca",
+        "score": "7.80"
+    },
+    "m425": {
+        "year": "2003",
+        "genre": [
+            "drama",
+            "romance"
+        ],
+        "count": "132645",
+        "title": "Lost In Translation",
+        "score": "7.90"
+    },
+    "m264": {
+        "year": "1996",
+        "genre": [
+            "animation",
+            "adventure",
+            "comedy",
+            "crime"
+        ],
+        "count": "23149",
+        "title": "Beavis And Butt-Head Do America",
+        "score": "6.60"
+    },
+    "m223": {
+        "year": "1989",
+        "genre": [
+            "drama",
+            "crime"
+        ],
+        "count": "1801",
+        "title": "True Believer",
+        "score": "6.70"
+    },
+    "m211": {
+        "year": "2008",
+        "genre": [
+            "drama",
+            "sci-fi",
+            "thriller"
+        ],
+        "count": "52489",
+        "title": "The Day The Earth Stood Still",
+        "score": "5.50"
+    },
+    "m1": {
+        "year": "1992",
+        "genre": [
+            "adventure",
+            "biography",
+            "drama",
+            "history"
+        ],
+        "count": "10421",
+        "title": "1492: Conquest Of Paradise",
+        "score": "6.20"
+    },
+    "m222": {
+        "year": "1990",
+        "genre": [
+            "action",
+            "comedy",
+            "horror",
+            "thriller"
+        ],
+        "count": "30553",
+        "title": "Tremors",
+        "score": "7.10"
+    },
+    "m11": {
+        "year": "1997",
+        "genre": [
+            "action",
+            "drama",
+            "thriller"
+        ],
+        "count": "61978",
+        "title": "Air Force One",
+        "score": "6.30"
+    },
+    "m92": {
+        "year": "2003",
+        "genre": [
+            "horror"
+        ],
+        "count": "27033",
+        "title": "House Of 1000 Corpses",
+        "score": "5.60"
+    },
+    "m137": {
+        "year": "2001",
+        "genre": [
+            "animation",
+            "comedy",
+            "fantasy",
+            "romance"
+        ],
+        "count": "8258",
+        "title": "Monkeybone",
+        "score": "4.50"
+    },
+    "m594": {
+        "year": "1958",
+        "genre": [
+            "crime",
+            "mystery",
+            "romance",
+            "thriller"
+        ],
+        "count": "93524",
+        "title": "Vertigo",
+        "score": "8.60"
+    },
+    "m269": {
+        "year": "1998",
+        "genre": [
+            "comedy",
+            "crime",
+            "mystery"
+        ],
+        "count": "182170",
+        "title": "The Big Lebowski",
+        "score": "8.20"
+    },
+    "m537": {
+        "year": "1996",
+        "genre": [
+            "comedy",
+            "drama"
+        ],
+        "count": "4552",
+        "title": "Suburbia",
+        "score": "6.50"
+    },
+    "m233": {
+        "year": "1960",
+        "genre": [
+            "drama",
+            "mystery"
+        ],
+        "count": "6963",
+        "title": "L'Avventura",
+        "score": "7.90"
+    },
+    "m534": {
+        "year": "2001",
+        "genre": [
+            "comedy",
+            "drama"
+        ],
+        "count": "9677",
+        "title": "Storytelling",
+        "score": "6.70"
+    },
+    "m163": {
+        "year": "2002",
+        "genre": [
+            "comedy",
+            "drama",
+            "romance"
+        ],
+        "count": "50312",
+        "title": "Punch-Drunk Love",
+        "score": "7.40"
+    },
+    "m350": {
+        "year": "2000",
+        "genre": [
+            "horror",
+            "thriller"
+        ],
+        "count": "53422",
+        "title": "Final Destination",
+        "score": "6.80"
+    },
+    "m99": {
+        "year": "1984",
+        "genre": [
+            "action",
+            "adventure"
+        ],
+        "count": "112054",
+        "title": "Indiana Jones And The Temple Of Doom",
+        "score": "7.50"
+    },
+    "m212": {
+        "year": "1987",
+        "genre": [
+            "comedy",
+            "fantasy",
+            "horror",
+            "thriller"
+        ],
+        "count": "34826",
+        "title": "The Lost Boys",
+        "score": "7.00"
+    },
+    "m310": {
+        "year": "2003",
+        "genre": [
+            "action"
+        ],
+        "count": "1091",
+        "title": "Crouching Tiger, Hidden Dragon",
+        "score": "8.00"
+    },
+    "m147": {
+        "year": "1955",
+        "genre": [
+            "drama",
+            "film-noir",
+            "thriller"
+        ],
+        "count": "26211",
+        "title": "The Night Of The Hunter",
+        "score": "8.20"
+    },
+    "m437": {
+        "year": "2006",
+        "genre": [
+            "action",
+            "crime",
+            "drama",
+            "thriller"
+        ],
+        "count": "52448",
+        "title": "Miami Vice",
+        "score": "6.00"
+    },
+    "m289": {
+        "year": "1995",
+        "genre": [
+            "biography",
+            "crime",
+            "drama"
+        ],
+        "count": "111223",
+        "title": "Casino",
+        "score": "8.10"
+    },
+    "m452": {
+        "year": "1997",
+        "genre": [
+            "comedy",
+            "romance"
+        ],
+        "count": "37682",
+        "title": "My Best Friend'S Wedding",
+        "score": "6.20"
+    },
+    "m572": {
+        "year": "2001",
+        "genre": [
+            "action",
+            "thriller",
+            "crime"
+        ],
+        "count": "3933",
+        "title": "Ticker",
+        "score": "3.30"
+    },
+    "m179": {
+        "year": "2002",
+        "genre": [
+            "drama",
+            "mystery",
+            "sci-fi",
+            "thriller"
+        ],
+        "count": "113119",
+        "title": "Signs",
+        "score": "6.90"
+    },
+    "m185": {
+        "year": "1977",
+        "genre": [
+            "action",
+            "comedy",
+            "crime",
+            "romance"
+        ],
+        "count": "14147",
+        "title": "Smokey And The Bandit",
+        "score": "6.60"
+    },
+    "m24": {
+        "year": "1984",
+        "genre": [
+            "comedy",
+            "romance"
+        ],
+        "count": "14050",
+        "title": "Bachelor Party",
+        "score": "5.90"
+    },
+    "m426": {
+        "year": "2000",
+        "genre": [
+            "drama",
+            "horror",
+            "thriller",
+            "romance"
+        ],
+        "count": "6663",
+        "title": "Lost Souls",
+        "score": "4.60"
+    },
+    "m133": {
+        "year": "1997",
+        "genre": [
+            "action",
+            "comedy",
+            "crime",
+            "drama",
+            "thriller"
+        ],
+        "count": "9601",
+        "title": "Metro",
+        "score": "5.30"
+    },
+    "m37": {
+        "year": "1999",
+        "genre": [
+            "action",
+            "crime",
+            "drama",
+            "thriller"
+        ],
+        "count": "87895",
+        "title": "The Boondock Saints",
+        "score": "7.80"
+    },
+    "m328": {
+        "year": "1984",
+        "genre": [
+            "action",
+            "adventure",
+            "sci-fi"
+        ],
+        "count": "38954",
+        "title": "Dune",
+        "score": "6.50"
+    },
+    "m234": {
+        "year": "1985",
+        "genre": [
+            "drama",
+            "mystery",
+            "thriller"
+        ],
+        "count": "3490",
+        "title": "Agnes Of God",
+        "score": "6.50"
+    },
+    "m75": {
+        "year": "1986",
+        "genre": [
+            "animation",
+            "comedy",
+            "fantasy",
+            "sci-fi",
+            "horror"
+        ],
+        "count": "237",
+        "title": "Ghostbusters",
+        "score": "6.90"
+    },
+    "m291": {
+        "year": "2004",
+        "genre": [
+            "action",
+            "crime",
+            "thriller"
+        ],
+        "count": "32920",
+        "title": "Cellular",
+        "score": "6.50"
+    },
+    "m82": {
+        "year": "1971",
+        "genre": [
+            "comedy",
+            "drama"
+        ],
+        "count": "144",
+        "title": "Happy Birthday, Wanda June",
+        "score": "5.80"
+    },
+    "m462": {
+        "year": "1999",
+        "genre": [
+            "comedy",
+            "romance"
+        ],
+        "count": "67217",
+        "title": "Notting Hill",
+        "score": "6.90"
+    },
+    "m422": {
+        "year": "1998",
+        "genre": [
+            "crime",
+            "thriller"
+        ],
+        "count": "129117",
+        "title": "Lock, Stock And Two Smoking Barrels",
+        "score": "8.20"
+    },
+    "m110": {
+        "year": "1993",
+        "genre": [
+            "crime",
+            "drama",
+            "thriller"
+        ],
+        "count": "21830",
+        "title": "Kalifornia",
+        "score": "6.70"
+    },
+    "m306": {
+        "year": "1995",
+        "genre": [
+            "crime",
+            "mystery",
+            "thriller"
+        ],
+        "count": "17335",
+        "title": "Copycat",
+        "score": "6.50"
+    },
+    "m9": {
+        "year": "1959",
+        "genre": [
+            "sci-fi",
+            "thriller"
+        ],
+        "count": "513",
+        "title": "The Atomic Submarine",
+        "score": "4.90"
+    },
+    "m574": {
+        "year": "1997",
+        "genre": [
+            "drama",
+            "history",
+            "romance"
+        ],
+        "count": "244771",
+        "title": "Titanic",
+        "score": "7.40"
+    },
+    "m308": {
+        "year": "2007",
+        "genre": [
+            "documentary"
+        ],
+        "count": "944",
+        "title": "Crazy Love",
+        "score": "7.00"
+    },
+    "m290": {
+        "year": "2004",
+        "genre": [
+            "action",
+            "crime",
+            "fantasy"
+        ],
+        "count": "35065",
+        "title": "Catwoman",
+        "score": "3.20"
+    },
+    "m7": {
+        "year": "1988",
+        "genre": [
+            "fantasy",
+            "horror",
+            "thriller"
+        ],
+        "count": "13590",
+        "title": "A Nightmare On Elm Street 4: The Dream Master",
+        "score": "5.20"
+    },
+    "m575": {
+        "year": "1934",
+        "genre": [
+            "comedy",
+            "musical",
+            "mystery",
+            "romance"
+        ],
+        "count": "53",
+        "title": "Transatlantic Merry-Go-Round",
+        "score": "6.90"
+    },
+    "m490": {
+        "year": "1975",
+        "genre": [
+            "comedy",
+            "musical"
+        ],
+        "count": "42713",
+        "title": "The Rocky Horror Picture Show",
+        "score": "7.10"
+    },
+    "m205": {
+        "year": "1976",
+        "genre": [
+            "drama",
+            "thriller"
+        ],
+        "count": "159525",
+        "title": "Taxi Driver",
+        "score": "8.60"
+    },
+    "m597": {
+        "year": "1995",
+        "genre": [
+            "action",
+            "crime",
+            "sci-fi",
+            "thriller"
+        ],
+        "count": "11191",
+        "title": "Virtuosity",
+        "score": "5.30"
+    },
+    "m330": {
+        "year": "1999",
+        "genre": [
+            "comedy"
+        ],
+        "count": "21865",
+        "title": "Edtv",
+        "score": "6.10"
+    },
+    "m398": {
+        "year": "2002",
+        "genre": [
+            "crime",
+            "drama",
+            "mystery",
+            "thriller"
+        ],
+        "count": "69635",
+        "title": "Insomnia",
+        "score": "7.30"
+    },
+    "m88": {
+        "year": "2000",
+        "genre": [
+            "comedy",
+            "drama",
+            "music",
+            "romance"
+        ],
+        "count": "70464",
+        "title": "High Fidelity",
+        "score": "7.60"
+    },
+    "m145": {
+        "year": "2000",
+        "genre": [
+            "comedy"
+        ],
+        "count": "10267",
+        "title": "Next Friday",
+        "score": "5.40"
+    },
+    "m488": {
+        "year": "2006",
+        "genre": [
+            "documentary"
+        ],
+        "count": "37",
+        "title": "Red White Black & Blue",
+        "score": "6.30"
+    },
+    "m500": {
+        "year": "1954",
+        "genre": [
+            "drama",
+            "history"
+        ],
+        "count": "1085",
+        "title": "Salt Of The Earth",
+        "score": "7.60"
+    },
+    "m307": {
+        "year": "2004",
+        "genre": [
+            "crime",
+            "drama"
+        ],
+        "count": "174003",
+        "title": "Crash",
+        "score": "8.00"
+    },
+    "m342": {
+        "year": "1989",
+        "genre": [
+            "drama",
+            "music",
+            "romance"
+        ],
+        "count": "9433",
+        "title": "The Fabulous Baker Boys",
+        "score": "6.70"
+    },
+    "m232": {
+        "year": "1989",
+        "genre": [
+            "action",
+            "adventure",
+            "drama",
+            "sci-fi",
+            "thriller"
+        ],
+        "count": "51699",
+        "title": "The Abyss",
+        "score": "7.60"
+    },
+    "m382": {
+        "year": "2001",
+        "genre": [
+            "comedy"
+        ],
+        "count": "1785",
+        "title": "Happy Campers",
+        "score": "5.40"
+    },
+    "m36": {
+        "year": "1986",
+        "genre": [
+            "crime",
+            "mystery",
+            "thriller"
+        ],
+        "count": "54576",
+        "title": "Blue Velvet",
+        "score": "7.80"
+    },
+    "m243": {
+        "year": "1977",
+        "genre": [
+            "comedy",
+            "drama",
+            "romance"
+        ],
+        "count": "66781",
+        "title": "Annie Hall",
+        "score": "8.30"
+    },
+    "m466": {
+        "year": "1965",
+        "genre": [
+            "fantasy",
+            "horror"
+        ],
+        "count": "1395",
+        "title": "Orgy Of The Dead",
+        "score": "2.50"
+    },
+    "m197": {
+        "year": "1991",
+        "genre": [
+            "action",
+            "mystery",
+            "sci-fi",
+            "thriller"
+        ],
+        "count": "23751",
+        "title": "Star Trek Vi: The Undiscovered Country",
+        "score": "7.20"
+    },
+    "m601": {
+        "year": "2000",
+        "genre": [
+            "drama",
+            "horror",
+            "mystery",
+            "thriller"
+        ],
+        "count": "46195",
+        "title": "What Lies Beneath",
+        "score": "6.50"
+    },
+    "m285": {
+        "year": "1987",
+        "genre": [
+            "comedy",
+            "drama",
+            "romance"
+        ],
+        "count": "10559",
+        "title": "Broadcast News",
+        "score": "7.10"
+    },
+    "m323": {
+        "year": "1988",
+        "genre": [
+            "action",
+            "crime",
+            "thriller"
+        ],
+        "count": "185430",
+        "title": "Die Hard",
+        "score": "8.30"
+    },
+    "m30": {
+        "year": "2003",
+        "genre": [
+            "adventure",
+            "drama",
+            "fantasy"
+        ],
+        "count": "144264",
+        "title": "Big Fish",
+        "score": "8.10"
+    },
+    "m521": {
+        "year": "1998",
+        "genre": [
+            "action",
+            "drama",
+            "sci-fi"
+        ],
+        "count": "16446",
+        "title": "Soldier",
+        "score": "5.60"
+    },
+    "m460": {
+        "year": "1985",
+        "genre": [
+            "fantasy",
+            "horror",
+            "thriller"
+        ],
+        "count": "16582",
+        "title": "A Nightmare On Elm Street Part 2: Freddy'S Revenge",
+        "score": "4.90"
+    },
+    "m305": {
+        "year": "1967",
+        "genre": [
+            "crime",
+            "drama"
+        ],
+        "count": "46514",
+        "title": "Cool Hand Luke",
+        "score": "8.30"
+    },
+    "m29": {
+        "year": "2003",
+        "genre": [
+            "crime",
+            "drama",
+            "mystery",
+            "thriller"
+        ],
+        "count": "26295",
+        "title": "Basic",
+        "score": "6.30"
+    },
+    "m150": {
+        "year": "1995",
+        "genre": [
+            "biography",
+            "drama"
+        ],
+        "count": "13878",
+        "title": "Nixon",
+        "score": "7.10"
+    },
+    "m146": {
+        "year": "1995",
+        "genre": [
+            "crime",
+            "drama",
+            "thriller"
+        ],
+        "count": "15945",
+        "title": "Nick Of Time",
+        "score": "6.20"
+    },
+    "m265": {
+        "year": "1988",
+        "genre": [
+            "comedy",
+            "fantasy"
+        ],
+        "count": "62164",
+        "title": "Beetle Juice",
+        "score": "7.30"
+    },
+    "m236": {
+        "year": "1979",
+        "genre": [
+            "adventure",
+            "horror",
+            "sci-fi",
+            "thriller"
+        ],
+        "count": "184471",
+        "title": "Alien",
+        "score": "8.50"
+    },
+    "m266": {
+        "year": "1979",
+        "genre": [
+            "drama",
+            "comedy"
+        ],
+        "count": "25085",
+        "title": "Being There",
+        "score": "8.00"
+    },
+    "m380": {
+        "year": "1986",
+        "genre": [
+            "comedy",
+            "drama",
+            "romance"
+        ],
+        "count": "21088",
+        "title": "Hannah And Her Sisters",
+        "score": "7.90"
+    },
+    "m496": {
+        "year": "2001",
+        "genre": [
+            "action",
+            "comedy",
+            "crime",
+            "thriller"
+        ],
+        "count": "52716",
+        "title": "Rush Hour 2",
+        "score": "6.50"
+    },
+    "m555": {
+        "year": "1998",
+        "genre": [
+            "drama"
+        ],
+        "count": "160825",
+        "title": "The Truman Show",
+        "score": "8.00"
+    },
+    "m57": {
+        "year": "1997",
+        "genre": [
+            "horror",
+            "mystery",
+            "mystery",
+            "sci-fi",
+            "sci-fi"
+        ],
+        "count": "45497",
+        "title": "Event Horizon",
+        "score": "6.40"
+    },
+    "m102": {
+        "year": "2003",
+        "genre": [
+            "comedy",
+            "romance",
+            "crime"
+        ],
+        "count": "36739",
+        "title": "Intolerable Cruelty",
+        "score": "6.40"
+    },
+    "m296": {
+        "year": "1974",
+        "genre": [
+            "crime",
+            "drama",
+            "mystery",
+            "thriller"
+        ],
+        "count": "80698",
+        "title": "Chinatown",
+        "score": "8.50"
+    },
+    "m95": {
+        "year": "2007",
+        "genre": [
+            "drama",
+            "sci-fi",
+            "thriller"
+        ],
+        "count": "156084",
+        "title": "I Am Legend",
+        "score": "7.10"
+    },
+    "m294": {
+        "year": "2000",
+        "genre": [
+            "horror",
+            "mystery",
+            "thriller"
+        ],
+        "count": "5669",
+        "title": "Cherry Falls",
+        "score": "4.80"
+    },
+    "m162": {
+        "year": "1998",
+        "genre": [
+            "comedy",
+            "drama",
+            "fantasy"
+        ],
+        "count": "49669",
+        "title": "Pleasantville",
+        "score": "7.50"
+    },
+    "m334": {
+        "year": "1996",
+        "genre": [
+            "romance",
+            "drama",
+            "war"
+        ],
+        "count": "55247",
+        "title": "The English Patient",
+        "score": "7.30"
+    },
+    "m105": {
+        "year": "1997",
+        "genre": [
+            "crime",
+            "drama",
+            "thriller"
+        ],
+        "count": "85496",
+        "title": "Jackie Brown",
+        "score": "7.60"
+    },
+    "m42": {
+        "year": "1942",
+        "genre": [
+            "drama",
+            "romance",
+            "war"
+        ],
+        "count": "170874",
+        "title": "Casablanca",
+        "score": "8.80"
+    },
+    "m167": {
+        "year": "1954",
+        "genre": [
+            "crime",
+            "mystery",
+            "romance",
+            "thriller"
+        ],
+        "count": "121165",
+        "title": "Rear Window",
+        "score": "8.70"
+    },
+    "m604": {
+        "year": "1994",
+        "genre": [
+            "drama",
+            "thriller"
+        ],
+        "count": "99",
+        "title": "White Angel",
+        "score": "4.40"
+    },
+    "m164": {
+        "year": "2000",
+        "genre": [
+            "biography",
+            "drama",
+            "history",
+            "romance"
+        ],
+        "count": "22657",
+        "title": "Quills",
+        "score": "7.30"
+    },
+    "m160": {
+        "year": "1999",
+        "genre": [
+            "drama"
+        ],
+        "count": "29",
+        "title": "Plastic Man",
+        "score": "6.70"
+    },
+    "m64": {
+        "year": "2009",
+        "genre": [
+            "horror"
+        ],
+        "count": "27499",
+        "title": "Friday The 13Th",
+        "score": "5.60"
+    },
+    "m556": {
+        "year": "1998",
+        "genre": [
+            "crime",
+            "horror",
+            "mystery",
+            "sci-fi",
+            "thriller"
+        ],
+        "count": "39090",
+        "title": "The X Files",
+        "score": "6.80"
+    },
+    "m553": {
+        "year": "2001",
+        "genre": [
+            "crime",
+            "drama"
+        ],
+        "count": "41452",
+        "title": "The Man Who Wasn'T There",
+        "score": "7.70"
+    },
+    "m313": {
+        "year": "1944",
+        "genre": [
+            "drama",
+            "fantasy",
+            "horror"
+        ],
+        "count": "2067",
+        "title": "The Curse Of The Cat People",
+        "score": "6.90"
+    },
+    "m463": {
+        "year": "1975",
+        "genre": [
+            "drama"
+        ],
+        "count": "219739",
+        "title": "One Flew Over The Cuckoo'S Nest",
+        "score": "8.90"
+    },
+    "m551": {
+        "year": "1999",
+        "genre": [
+            "horror",
+            "thriller",
+            "mystery"
+        ],
+        "count": "32086",
+        "title": "The Haunting",
+        "score": "4.60"
+    },
+    "m348": {
+        "year": "1999",
+        "genre": [
+            "crime",
+            "drama",
+            "mystery",
+            "thriller"
+        ],
+        "count": "391697",
+        "title": "Fight Club",
+        "score": "8.80"
+    },
+    "m417": {
+        "year": "1997",
+        "genre": [
+            "biography",
+            "drama",
+            "history",
+            "war"
+        ],
+        "count": "10378",
+        "title": "Kundun",
+        "score": "7.10"
+    },
+    "m569": {
+        "year": "1934",
+        "genre": [
+            "comedy",
+            "crime",
+            "drama",
+            "mystery",
+            "romance"
+        ],
+        "count": "11936",
+        "title": "The Thin Man",
+        "score": "8.10"
+    },
+    "m359": {
+        "year": "1982",
+        "genre": [
+            "horror"
+        ],
+        "count": "11718",
+        "title": "Friday The 13Th Part Iii",
+        "score": "5.10"
+    },
+    "m280": {
+        "year": "2001",
+        "genre": [
+            "crime",
+            "horror"
+        ],
+        "count": "3525",
+        "title": "Bones",
+        "score": "4.00"
+    },
+    "m542": {
+        "year": "1980",
+        "genre": [
+            "action",
+            "adventure",
+            "fantasy",
+            "romance",
+            "sci-fi"
+        ],
+        "count": "29941",
+        "title": "Superman Ii",
+        "score": "6.70"
+    },
+    "m443": {
+        "year": "1996",
+        "genre": [
+            "action",
+            "adventure",
+            "thriller"
+        ],
+        "count": "87677",
+        "title": "Mission: Impossible",
+        "score": "6.90"
+    },
+    "m383": {
+        "year": "1989",
+        "genre": [
+            "comedy",
+            "crime"
+        ],
+        "count": "25236",
+        "title": "Heathers",
+        "score": "7.30"
+    },
+    "m411": {
+        "year": "1993",
+        "genre": [
+            "action",
+            "adventure",
+            "family",
+            "sci-fi",
+            "action",
+            "adventure",
+            "fantasy",
+            "sci-fi"
+        ],
+        "count": "153737",
+        "title": "Jurassic Park",
+        "score": "7.90"
+    },
+    "m509": {
+        "year": "1956",
+        "genre": [
+            "adventure",
+            "drama",
+            "western"
+        ],
+        "count": "30138",
+        "title": "The Searchers",
+        "score": "8.10"
+    },
+    "m580": {
+        "year": "1987",
+        "genre": [
+            "fantasy"
+        ],
+        "count": "90",
+        "title": "The Magic Toyshop",
+        "score": "6.20"
+    },
+    "m168": {
+        "year": "1955",
+        "genre": [
+            "drama",
+            "romance"
+        ],
+        "count": "27791",
+        "title": "Rebel Without A Cause",
+        "score": "7.90"
+    },
+    "m352": {
+        "year": "1991",
+        "genre": [
+            "comedy",
+            "drama",
+            "romance"
+        ],
+        "count": "28310",
+        "title": "The Fisher King",
+        "score": "7.50"
+    },
+    "m349": {
+        "year": "2003",
+        "genre": [
+            "horror",
+            "thriller"
+        ],
+        "count": "36312",
+        "title": "Final Destination 2",
+        "score": "6.40"
+    },
+    "m93": {
+        "year": "2001",
+        "genre": [
+            "comedy",
+            "drama"
+        ],
+        "count": "10017",
+        "title": "Human Nature",
+        "score": "6.30"
+    },
+    "m337": {
+        "year": "1982",
+        "genre": [
+            "animation",
+            "adventure",
+            "action",
+            "fantasy"
+        ],
+        "count": "42",
+        "title": "Star Wars: The Empire Strikes Back",
+        "score": "8.00"
+    },
+    "m176": {
+        "year": "1975",
+        "genre": [
+            "horror",
+            "sci-fi"
+        ],
+        "count": "4940",
+        "title": "Shivers",
+        "score": "6.50"
+    },
+    "m184": {
+        "year": "2006",
+        "genre": [
+            "comedy",
+            "horror",
+            "sci-fi"
+        ],
+        "count": "26497",
+        "title": "Slither",
+        "score": "6.60"
+    },
+    "m35": {
+        "year": "1999",
+        "genre": [
+            "comedy",
+            "drama",
+            "romance"
+        ],
+        "count": "23489",
+        "title": "Blast From The Past",
+        "score": "6.40"
+    },
+    "m440": {
+        "year": "1997",
+        "genre": [
+            "drama",
+            "horror",
+            "sci-fi"
+        ],
+        "count": "14916",
+        "title": "Mimic",
+        "score": "5.70"
+    },
+    "m593": {
+        "year": "1974",
+        "genre": [
+            "drama"
+        ],
+        "count": "135",
+        "title": "Verdict",
+        "score": "5.70"
+    },
+    "m302": {
+        "year": "2004",
+        "genre": [
+            "crime",
+            "drama",
+            "thriller"
+        ],
+        "count": "106866",
+        "title": "Collateral",
+        "score": "7.80"
+    },
+    "m21": {
+        "year": "2001",
+        "genre": [
+            "drama",
+            "thriller"
+        ],
+        "count": "16453",
+        "title": "Antitrust",
+        "score": "6.00"
+    },
+    "m415": {
+        "year": "1971",
+        "genre": [
+            "mystery",
+            "romance",
+            "thriller"
+        ],
+        "count": "6901",
+        "title": "Klute",
+        "score": "7.20"
+    },
+    "m152": {
+        "year": "2000",
+        "genre": [
+            "comedy",
+            "crime",
+            "romance",
+            "thriller"
+        ],
+        "count": "20473",
+        "title": "Nurse Betty",
+        "score": "6.40"
+    },
+    "m249": {
+        "year": "1997",
+        "genre": [
+            "comedy",
+            "drama",
+            "romance"
+        ],
+        "count": "93201",
+        "title": "As Good As It Gets",
+        "score": "7.80"
+    },
+    "m284": {
+        "year": "1999",
+        "genre": [
+            "drama",
+            "thriller"
+        ],
+        "count": "31285",
+        "title": "Bringing Out The Dead",
+        "score": "6.80"
+    },
+    "m108": {
+        "year": "1975",
+        "genre": [
+            "thriller"
+        ],
+        "count": "140982",
+        "title": "Jaws",
+        "score": "8.30"
+    },
+    "m228": {
+        "year": "1996",
+        "genre": [
+            "adventure",
+            "drama"
+        ],
+        "count": "8465",
+        "title": "White Squall",
+        "score": "6.40"
+    },
+    "m94": {
+        "year": "1961",
+        "genre": [
+            "drama",
+            "romance",
+            "sport"
+        ],
+        "count": "25871",
+        "title": "The Hustler",
+        "score": "8.20"
+    },
+    "m209": {
+        "year": "1945",
+        "genre": [
+            "drama",
+            "horror",
+            "thriller"
+        ],
+        "count": "2927",
+        "title": "The Body Snatcher",
+        "score": "7.40"
+    },
+    "m570": {
+        "year": "1999",
+        "genre": [
+            "action",
+            "adventure",
+            "comedy",
+            "drama",
+            "war"
+        ],
+        "count": "69757",
+        "title": "Three Kings",
+        "score": "7.30"
+    },
+    "m247": {
+        "year": "1979",
+        "genre": [
+            "drama",
+            "war"
+        ],
+        "count": "176465",
+        "title": "Apocalypse Now",
+        "score": "8.60"
+    },
+    "m181": {
+        "year": "2010",
+        "genre": [
+            "short",
+            "drama",
+            "horror",
+            "thriller"
+        ],
+        "count": "9",
+        "title": "Simone",
+        "score": "8.30"
+    },
+    "m456": {
+        "year": "1998",
+        "genre": [
+            "action",
+            "crime",
+            "drama",
+            "mystery",
+            "thriller"
+        ],
+        "count": "46983",
+        "title": "The Negotiator",
+        "score": "7.20"
+    },
+    "m356": {
+        "year": "1990",
+        "genre": [
+            "action",
+            "adventure",
+            "comedy",
+            "music"
+        ],
+        "count": "9051",
+        "title": "The Adventures Of Ford Fairlane",
+        "score": "5.60"
+    },
+    "m367": {
+        "year": "2000",
+        "genre": [
+            "action",
+            "crime",
+            "drama",
+            "thriller"
+        ],
+        "count": "14319",
+        "title": "Get Carter",
+        "score": "4.80"
+    },
+    "m144": {
+        "year": "1995",
+        "genre": [
+            "family",
+            "adventure"
+        ],
+        "count": "486",
+        "title": "Napoleon",
+        "score": "5.50"
+    },
+    "m615": {
+        "year": "1974",
+        "genre": [
+            "comedy",
+            "sci-fi"
+        ],
+        "count": "57618",
+        "title": "Young Frankenstein",
+        "score": "8.00"
+    },
+    "m530": {
+        "year": "1997",
+        "genre": [
+            "action",
+            "adventure",
+            "sci-fi",
+            "thriller"
+        ],
+        "count": "84874",
+        "title": "Starship Troopers",
+        "score": "7.10"
+    },
+    "m606": {
+        "year": "1998",
+        "genre": [
+            "crime",
+            "mystery",
+            "thriller"
+        ],
+        "count": "40523",
+        "title": "Wild Things",
+        "score": "6.60"
+    },
+    "m298": {
+        "year": "1941",
+        "genre": [
+            "drama",
+            "mystery"
+        ],
+        "count": "140517",
+        "title": "Citizen Kane",
+        "score": "8.60"
+    },
+    "m8": {
+        "year": "1989",
+        "genre": [
+            "fantasy",
+            "horror",
+            "thriller"
+        ],
+        "count": "11092",
+        "title": "A Nightmare On Elm Street: The Dream Child",
+        "score": "4.70"
+    },
+    "m585": {
+        "year": "1994",
+        "genre": [
+            "action",
+            "thriller"
+        ],
+        "count": "81801",
+        "title": "True Lies",
+        "score": "7.20"
+    },
+    "m15": {
+        "year": "1986",
+        "genre": [
+            "action",
+            "sci-fi",
+            "thriller"
+        ],
+        "count": "173518",
+        "title": "Aliens",
+        "score": "8.50"
+    },
+    "m560": {
+        "year": "2001",
+        "genre": [
+            "drama"
+        ],
+        "count": "11345",
+        "title": "The Believer",
+        "score": "7.30"
+    },
+    "m149": {
+        "year": "1939",
+        "genre": [
+            "comedy",
+            "romance"
+        ],
+        "count": "6951",
+        "title": "Ninotchka",
+        "score": "7.90"
+    },
+    "m375": {
+        "year": "1997",
+        "genre": [
+            "comedy",
+            "crime",
+            "romance",
+            "thriller"
+        ],
+        "count": "41877",
+        "title": "Grosse Pointe Blank",
+        "score": "7.40"
+    },
+    "m0": {
+        "year": "1999",
+        "genre": [
+            "comedy",
+            "romance"
+        ],
+        "count": "62847",
+        "title": "10 Things I Hate About You",
+        "score": "6.90"
+    },
+    "m116": {
+        "year": "1995",
+        "genre": [
+            "drama",
+            "romance"
+        ],
+        "count": "42919",
+        "title": "Leaving Las Vegas",
+        "score": "7.60"
+    },
+    "m183": {
+        "year": "2002",
+        "genre": [
+            "comedy",
+            "horror",
+            "thriller"
+        ],
+        "count": "899",
+        "title": "Slash",
+        "score": "4.20"
+    },
+    "m5": {
+        "year": "1997",
+        "genre": [
+            "action",
+            "adventure",
+            "romance",
+            "sci-fi",
+            "thriller"
+        ],
+        "count": "133756",
+        "title": "The Fifth Element",
+        "score": "7.50"
+    },
+    "m405": {
+        "year": "1987",
+        "genre": [
+            "thriller"
+        ],
+        "count": "15727",
+        "title": "Jaws: The Revenge",
+        "score": "2.60"
+    },
+    "m358": {
+        "year": "2000",
+        "genre": [
+            "crime",
+            "drama",
+            "sci-fi",
+            "thriller"
+        ],
+        "count": "36396",
+        "title": "Frequency",
+        "score": "7.30"
+    },
+    "m511": {
+        "year": "1998",
+        "genre": [
+            "comedy",
+            "drama",
+            "romance"
+        ],
+        "count": "78654",
+        "title": "Shakespeare In Love",
+        "score": "7.40"
+    },
+    "m491": {
+        "year": "1976",
+        "genre": [
+            "drama",
+            "romance",
+            "sport"
+        ],
+        "count": "100022",
+        "title": "Rocky",
+        "score": "8.10"
+    },
+    "m418": {
+        "year": "1999",
+        "genre": [
+            "action",
+            "comedy",
+            "horror",
+            "thriller"
+        ],
+        "count": "19621",
+        "title": "Lake Placid",
+        "score": "5.40"
+    },
+    "m590": {
+        "year": "2000",
+        "genre": [
+            "drama",
+            "fantasy",
+            "mystery",
+            "thriller"
+        ],
+        "count": "98767",
+        "title": "Unbreakable",
+        "score": "7.30"
+    },
+    "m119": {
+        "year": "2001",
+        "genre": [
+            "drama",
+            "romance"
+        ],
+        "count": "19468",
+        "title": "Life As A House",
+        "score": "7.50"
+    },
+    "m148": {
+        "year": "1984",
+        "genre": [
+            "horror"
+        ],
+        "count": "47161",
+        "title": "A Nightmare On Elm Street",
+        "score": "7.40"
+    },
+    "m273": {
+        "year": "2000",
+        "genre": [
+            "crime",
+            "horror",
+            "mystery",
+            "thriller"
+        ],
+        "count": "16285",
+        "title": "Book Of Shadows: Blair Witch 2",
+        "score": "4.10"
+    },
+    "m473": {
+        "year": "2001",
+        "genre": [
+            "action",
+            "adventure",
+            "sci-fi",
+            "thriller",
+            "animation",
+            "action",
+            "adventure",
+            "sci-fi"
+        ],
+        "count": "73596",
+        "title": "Planet Of The Apes",
+        "score": "5.50"
+    },
+    "m433": {
+        "year": "1999",
+        "genre": [
+            "action",
+            "adventure",
+            "adventure",
+            "adventure",
+            "sci-fi"
+        ],
+        "count": "389480",
+        "title": "The Matrix",
+        "score": "8.70"
+    },
+    "m252": {
+        "year": "2002",
+        "genre": [
+            "drama",
+            "romance"
+        ],
+        "count": "38751",
+        "title": "A Walk To Remember",
+        "score": "7.10"
+    },
+    "m25": {
+        "year": "1991",
+        "genre": [
+            "action",
+            "crime",
+            "drama",
+            "mystery",
+            "thriller"
+        ],
+        "count": "28541",
+        "title": "Backdraft",
+        "score": "6.60"
+    },
+    "m357": {
+        "year": "1971",
+        "genre": [
+            "action",
+            "crime",
+            "thriller"
+        ],
+        "count": "34062",
+        "title": "The French Connection",
+        "score": "7.90"
+    },
+    "m142": {
+        "year": "1999",
+        "genre": [
+            "action",
+            "adventure",
+            "fantasy"
+        ],
+        "count": "96736",
+        "title": "The Mummy",
+        "score": "6.90"
+    },
+    "m336": {
+        "year": "2000",
+        "genre": [
+            "biography",
+            "drama",
+            "romance"
+        ],
+        "count": "55641",
+        "title": "Erin Brockovich",
+        "score": "7.20"
+    },
+    "m165": {
+        "year": "1999",
+        "genre": [
+            "biography",
+            "drama"
+        ],
+        "count": "3543",
+        "title": "Rko 281",
+        "score": "7.10"
+    },
+    "m86": {
+        "year": "2004",
+        "genre": [
+            "action",
+            "adventure",
+            "fantasy"
+        ],
+        "count": "68619",
+        "title": "Hellboy",
+        "score": "6.80"
+    },
+    "m318": {
+        "year": "1989",
+        "genre": [
+            "drama"
+        ],
+        "count": "90842",
+        "title": "Dead Poets Society",
+        "score": "7.80"
+    },
+    "m279": {
+        "year": "1995",
+        "genre": [
+            "drama",
+            "romance"
+        ],
+        "count": "22252",
+        "title": "The Bridges Of Madison County",
+        "score": "7.20"
+    },
+    "m213": {
+        "year": "1982",
+        "genre": [
+            "horror",
+            "mystery",
+            "sci-fi",
+            "thriller"
+        ],
+        "count": "80904",
+        "title": "The Thing",
+        "score": "8.20"
+    },
+    "m577": {
+        "year": "1997",
+        "genre": [
+            "action",
+            "adventure",
+            "thriller"
+        ],
+        "count": "47198",
+        "title": "Tomorrow Never Dies",
+        "score": "6.40"
+    },
+    "m159": {
+        "year": "2003",
+        "genre": [
+            "adventure",
+            "fantasy",
+            "horror"
+        ],
+        "count": "329",
+        "title": "Pirates Of The Caribbean",
+        "score": "7.20"
+    },
+    "m173": {
+        "year": "1994",
+        "genre": [
+            "comedy",
+            "thriller"
+        ],
+        "count": "11077",
+        "title": "Serial Mom",
+        "score": "6.40"
+    },
+    "m388": {
+        "year": "1994",
+        "genre": [
+            "fantasy",
+            "sci-fi",
+            "action"
+        ],
+        "count": "7831",
+        "title": "Highlander Iii: The Sorcerer",
+        "score": "3.90"
+    },
+    "m347": {
+        "year": "1996",
+        "genre": [
+            "crime",
+            "drama",
+            "thriller"
+        ],
+        "count": "168176",
+        "title": "Fargo",
+        "score": "8.30"
+    },
+    "m300": {
+        "year": "1993",
+        "genre": [
+            "action",
+            "adventure",
+            "thriller"
+        ],
+        "count": "34880",
+        "title": "Cliffhanger",
+        "score": "6.20"
+    },
+    "m344": {
+        "year": "2000",
+        "genre": [
+            "comedy",
+            "fantasy",
+            "drama",
+            "romance"
+        ],
+        "count": "34509",
+        "title": "The Family Man",
+        "score": "6.60"
+    },
+    "m366": {
+        "year": "1972",
+        "genre": [
+            "action",
+            "adventure",
+            "crime",
+            "thriller"
+        ],
+        "count": "10151",
+        "title": "The Getaway",
+        "score": "7.50"
+    },
+    "m193": {
+        "year": "1982",
+        "genre": [
+            "action",
+            "adventure",
+            "sci-fi",
+            "thriller"
+        ],
+        "count": "36503",
+        "title": "Star Trek: The Wrath Of Khan",
+        "score": "7.80"
+    },
+    "m201": {
+        "year": "2004",
+        "genre": [
+            "crime",
+            "horror",
+            "sci-fi",
+            "thriller"
+        ],
+        "count": "9914",
+        "title": "Suspect Zero",
+        "score": "5.80"
+    },
+    "m170": {
+        "year": "1992",
+        "genre": [
+            "crime",
+            "mystery",
+            "thriller"
+        ],
+        "count": "217185",
+        "title": "Reservoir Dogs",
+        "score": "8.40"
+    },
+    "m532": {
+        "year": "2000",
+        "genre": [
+            "comedy",
+            "drama"
+        ],
+        "count": "13163",
+        "title": "State And Main",
+        "score": "6.80"
+    },
+    "m351": {
+        "year": "1985",
+        "genre": [
+            "action",
+            "adventure",
+            "thriller"
+        ],
+        "count": "39147",
+        "title": "Rambo: First Blood Part Ii",
+        "score": "5.80"
+    },
+    "m616": {
+        "year": "1979",
+        "genre": [
+            "action",
+            "adventure",
+            "drama",
+            "history",
+            "war"
+        ],
+        "count": "1911",
+        "title": "Zulu Dawn",
+        "score": "6.40"
+    },
+    "m158": {
+        "year": "1989",
+        "genre": [
+            "drama",
+            "fantasy",
+            "horror",
+            "mystery",
+            "thriller"
+        ],
+        "count": "19851",
+        "title": "Pet Sematary",
+        "score": "6.30"
+    },
+    "m231": {
+        "year": "2004",
+        "genre": [
+            "drama"
+        ],
+        "count": "16090",
+        "title": "The Woodsman",
+        "score": "7.40"
+    },
+    "m529": {
+        "year": "1977",
+        "genre": [
+            "action",
+            "adventure",
+            "fantasy",
+            "sci-fi"
+        ],
+        "count": "326619",
+        "title": "Star Wars",
+        "score": "8.80"
+    },
+    "m613": {
+        "year": "2002",
+        "genre": [
+            "action",
+            "adventure",
+            "crime"
+        ],
+        "count": "53505",
+        "title": "Xxx",
+        "score": "5.60"
+    },
+    "m345": {
+        "year": "1994",
+        "genre": [
+            "action",
+            "adventure",
+            "sci-fi",
+            "fantasy"
+        ],
+        "count": "1472",
+        "title": "The Fantastic Four",
+        "score": "3.80"
+    },
+    "m363": {
+        "year": "2005",
+        "genre": [
+            "comedy",
+            "drama",
+            "sport"
+        ],
+        "count": "1414",
+        "title": "Game 6",
+        "score": "6.00"
+    },
+    "m449": {
+        "year": "2009",
+        "genre": [
+            "crime",
+            "drama",
+            "mystery"
+        ],
+        "count": "88",
+        "title": "\"Murderland\"",
+        "score": "5.80"
+    },
+    "m450": {
+        "year": "1994",
+        "genre": [
+            "comedy",
+            "drama",
+            "family",
+            "romance"
+        ],
+        "count": "5689",
+        "title": "My Girl 2",
+        "score": "4.80"
+    },
+    "m246": {
+        "year": "1960",
+        "genre": [
+            "romance",
+            "comedy",
+            "drama"
+        ],
+        "count": "37301",
+        "title": "The Apartment",
+        "score": "8.40"
+    },
+    "m514": {
+        "year": "1980",
+        "genre": [
+            "horror",
+            "mystery",
+            "thriller"
+        ],
+        "count": "182077",
+        "title": "The Shining",
+        "score": "8.50"
+    },
+    "m244": {
+        "year": "2001",
+        "genre": [
+            "drama",
+            "comedy"
+        ],
+        "count": "5809",
+        "title": "The Anniversary Party",
+        "score": "6.20"
+    },
+    "m459": {
+        "year": "1993",
+        "genre": [
+            "animation",
+            "family",
+            "fantasy",
+            "musical"
+        ],
+        "count": "81753",
+        "title": "The Nightmare Before Christmas",
+        "score": "8.00"
+    },
+    "m390": {
+        "year": "2004",
+        "genre": [
+            "adventure",
+            "drama",
+            "history",
+            "thriller",
+            "war"
+        ],
+        "count": "94404",
+        "title": "Hotel Rwanda",
+        "score": "8.30"
+    },
+    "m39": {
+        "year": "2004",
+        "genre": [
+            "action",
+            "adventure",
+            "mystery",
+            "thriller"
+        ],
+        "count": "106349",
+        "title": "The Bourne Supremacy",
+        "score": "7.60"
+    },
+    "m52": {
+        "year": "1933",
+        "genre": [
+            "comedy",
+            "musical"
+        ],
+        "count": "27112",
+        "title": "Duck Soup",
+        "score": "8.10"
+    },
+    "m544": {
+        "year": "1978",
+        "genre": [
+            "action",
+            "family",
+            "sci-fi"
+        ],
+        "count": "51172",
+        "title": "Superman",
+        "score": "7.30"
+    },
+    "m120": {
+        "year": "2003",
+        "genre": [
+            "drama",
+            "crime",
+            "thriller"
+        ],
+        "count": "38237",
+        "title": "The Life Of David Gale",
+        "score": "7.30"
+    },
+    "m54": {
+        "year": "1989",
+        "genre": [
+            "comedy",
+            "adventure",
+            "fantasy"
+        ],
+        "count": "5889",
+        "title": "Erik The Viking",
+        "score": "5.90"
+    },
+    "m441": {
+        "year": "1990",
+        "genre": [
+            "thriller"
+        ],
+        "count": "41563",
+        "title": "Misery",
+        "score": "7.80"
+    },
+    "m549": {
+        "year": "1984",
+        "genre": [
+            "action",
+            "sci-fi",
+            "thriller"
+        ],
+        "count": "183538",
+        "title": "The Terminator",
+        "score": "8.10"
+    },
+    "m495": {
+        "year": "1998",
+        "genre": [
+            "crime",
+            "drama"
+        ],
+        "count": "557",
+        "title": "Route 9",
+        "score": "6.00"
+    },
+    "m206": {
+        "year": "1996",
+        "genre": [
+            "action",
+            "adventure",
+            "thriller"
+        ],
+        "count": "109533",
+        "title": "The Rock",
+        "score": "7.30"
+    },
+    "m204": {
+        "year": "1999",
+        "genre": [
+            "crime",
+            "drama",
+            "thriller"
+        ],
+        "count": "64055",
+        "title": "The Talented Mr. Ripley",
+        "score": "7.20"
+    },
+    "m139": {
+        "year": "1939",
+        "genre": [
+            "drama"
+        ],
+        "count": "33984",
+        "title": "Mr. Smith Goes To Washington",
+        "score": "8.40"
+    },
+    "m187": {
+        "year": "2002",
+        "genre": [
+            "drama",
+            "mystery",
+            "romance",
+            "sci-fi"
+        ],
+        "count": "33541",
+        "title": "Solaris",
+        "score": "6.20"
+    },
+    "m112": {
+        "year": "1992",
+        "genre": [
+            "mystery",
+            "thriller"
+        ],
+        "count": "3272",
+        "title": "Knight Moves",
+        "score": "5.80"
+    },
+    "m293": {
+        "year": "1963",
+        "genre": [
+            "comedy",
+            "mystery",
+            "romance",
+            "thriller"
+        ],
+        "count": "22815",
+        "title": "Charade",
+        "score": "8.00"
+    },
+    "m129": {
+        "year": "2004",
+        "genre": [
+            "action",
+            "crime",
+            "drama",
+            "thriller"
+        ],
+        "count": "76517",
+        "title": "Man On Fire",
+        "score": "7.70"
+    },
+    "m56": {
+        "year": "1993",
+        "genre": [
+            "comedy",
+            "drama",
+            "romance",
+            "western"
+        ],
+        "count": "3947",
+        "title": "Even Cowgirls Get The Blues",
+        "score": "4.00"
+    },
+    "m97": {
+        "year": "1996",
+        "genre": [
+            "action",
+            "adventure",
+            "sci-fi",
+            "thriller"
+        ],
+        "count": "151698",
+        "title": "Independence Day",
+        "score": "6.60"
+    },
+    "m612": {
+        "year": "2009",
+        "genre": [
+            "action",
+            "crime",
+            "fantasy",
+            "mystery",
+            "sci-fi",
+            "thriller"
+        ],
+        "count": "135229",
+        "title": "Watchmen",
+        "score": "7.80"
+    },
+    "m169": {
+        "year": "2000",
+        "genre": [
+            "action",
+            "crime",
+            "drama",
+            "thriller"
+        ],
+        "count": "16951",
+        "title": "Reindeer Games",
+        "score": "5.50"
+    },
+    "m525": {
+        "year": "1999",
+        "genre": [
+            "animation",
+            "comedy",
+            "musical"
+        ],
+        "count": "80257",
+        "title": "South Park: Bigger Longer & Uncut",
+        "score": "7.80"
+    },
+    "m20": {
+        "year": "2000",
+        "genre": [
+            "drama",
+            "thriller"
+        ],
+        "count": "101357",
+        "title": "American Psycho",
+        "score": "7.40"
+    },
+    "m114": {
+        "year": "1994",
+        "genre": [
+            "crime",
+            "drama",
+            "thriller"
+        ],
+        "count": "204901",
+        "title": "Léon",
+        "score": "8.60"
+    },
+    "m196": {
+        "year": "1996",
+        "genre": [
+            "action",
+            "adventure",
+            "sci-fi",
+            "thriller"
+        ],
+        "count": "45429",
+        "title": "Star Trek: First Contact",
+        "score": "7.60"
+    },
+    "m72": {
+        "year": "2001",
+        "genre": [
+            "comedy",
+            "drama"
+        ],
+        "count": "43550",
+        "title": "Ghost World",
+        "score": "7.70"
+    },
+    "m516": {
+        "year": "1992",
+        "genre": [
+            "comedy",
+            "crime",
+            "music"
+        ],
+        "count": "25196",
+        "title": "Sister Act",
+        "score": "5.90"
+    },
+    "m583": {
+        "year": "1989",
+        "genre": [
+            "action",
+            "adventure",
+            "sci-fi",
+            "thriller"
+        ],
+        "count": "20749",
+        "title": "Star Trek V: The Final Frontier",
+        "score": "5.00"
+    },
+    "m131": {
+        "year": "1970",
+        "genre": [
+            "comedy",
+            "war",
+            "drama"
+        ],
+        "count": "29358",
+        "title": "Mash",
+        "score": "7.80"
+    },
+    "m554": {
+        "year": "1997",
+        "genre": [
+            "horror",
+            "mystery",
+            "thriller"
+        ],
+        "count": "10340",
+        "title": "The Relic",
+        "score": "5.40"
+    },
+    "m420": {
+        "year": "1977",
+        "genre": [
+            "action",
+            "adventure",
+            "war"
+        ],
+        "count": "71",
+        "title": "Last Of The Mohicans",
+        "score": "7.30"
+    },
+    "m226": {
+        "year": "1953",
+        "genre": [
+            "action",
+            "horror",
+            "sci-fi",
+            "thriller"
+        ],
+        "count": "12239",
+        "title": "The War Of The Worlds",
+        "score": "7.10"
+    },
+    "m332": {
+        "year": "1997",
+        "genre": [
+            "crime",
+            "drama",
+            "mystery",
+            "thriller"
+        ],
+        "count": "168009",
+        "title": "L.A. Confidential",
+        "score": "8.40"
+    },
+    "m14": {
+        "year": "1988",
+        "genre": [
+            "crime",
+            "drama",
+            "sci-fi",
+            "thriller"
+        ],
+        "count": "5590",
+        "title": "Alien Nation",
+        "score": "6.10"
+    },
+    "m192": {
+        "year": "1984",
+        "genre": [
+            "action",
+            "adventure",
+            "sci-fi",
+            "thriller"
+        ],
+        "count": "22466",
+        "title": "Star Trek Iii: The Search For Spock",
+        "score": "6.50"
+    },
+    "m154": {
+        "year": "1982",
+        "genre": [
+            "drama",
+            "romance"
+        ],
+        "count": "16883",
+        "title": "An Officer And A Gentleman",
+        "score": "6.80"
+    },
+    "m191": {
+        "year": "1994",
+        "genre": [
+            "action",
+            "mystery",
+            "sci-fi",
+            "thriller"
+        ],
+        "count": "26662",
+        "title": "Star Trek: Generations",
+        "score": "6.50"
+    },
+    "m430": {
+        "year": "2003",
+        "genre": [
+            "action",
+            "adventure",
+            "crime",
+            "horror",
+            "thriller"
+        ],
+        "count": "736",
+        "title": "Manhunt",
+        "score": "8.70"
+    },
+    "m396": {
+        "year": "1943",
+        "genre": [
+            "horror"
+        ],
+        "count": "3420",
+        "title": "I Walked With A Zombie",
+        "score": "7.30"
+    },
+    "m384": {
+        "year": "1994",
+        "genre": [
+            "crime",
+            "drama",
+            "fantasy",
+            "thriller"
+        ],
+        "count": "27211",
+        "title": "Heavenly Creatures",
+        "score": "7.60"
+    },
+    "m220": {
+        "year": "1986",
+        "genre": [
+            "action",
+            "drama",
+            "romance"
+        ],
+        "count": "81087",
+        "title": "Top Gun",
+        "score": "6.50"
+    },
+    "m518": {
+        "year": "1996",
+        "genre": [
+            "drama"
+        ],
+        "count": "42087",
+        "title": "Sling Blade",
+        "score": "8.00"
+    },
+    "m322": {
+        "year": "2004",
+        "genre": [
+            "comedy",
+            "drama",
+            "fantasy"
+        ],
+        "count": "1824",
+        "title": "The Devil And Daniel Webster",
+        "score": "5.70"
+    },
+    "m393": {
+        "year": "1992",
+        "genre": [
+            "horror"
+        ],
+        "count": "7716",
+        "title": "Hellraiser Iii: Hell On Earth",
+        "score": "5.10"
+    },
+    "m526": {
+        "year": "1997",
+        "genre": [
+            "action",
+            "sci-fi"
+        ],
+        "count": "105",
+        "title": "Spacejacked",
+        "score": "2.90"
+    },
+    "m513": {
+        "year": "1975",
+        "genre": [
+            "drama",
+            "romance"
+        ],
+        "count": "4406",
+        "title": "Shampoo",
+        "score": "6.20"
+    },
+    "m61": {
+        "year": "2005",
+        "genre": [
+            "action",
+            "comedy",
+            "horror",
+            "thriller"
+        ],
+        "count": "12248",
+        "title": "Feast",
+        "score": "6.40"
+    },
+    "m444": {
+        "year": "1987",
+        "genre": [
+            "comedy",
+            "romance",
+            "drama"
+        ],
+        "count": "15879",
+        "title": "Moonstruck",
+        "score": "7.10"
+    },
+    "m271": {
+        "year": "2002",
+        "genre": [
+            "action",
+            "fantasy",
+            "horror",
+            "thriller",
+            "action",
+            "adventure",
+            "horror"
+        ],
+        "count": "51826",
+        "title": "Blade Ii",
+        "score": "6.60"
+    },
+    "m325": {
+        "year": "2005",
+        "genre": [
+            "action",
+            "crime",
+            "drama",
+            "thriller"
+        ],
+        "count": "32949",
+        "title": "Domino",
+        "score": "5.90"
+    },
+    "m277": {
+        "year": "1966",
+        "genre": [
+            "drama",
+            "history",
+            "war"
+        ],
+        "count": "14339",
+        "title": "La Battaglia Di Algeri",
+        "score": "8.20"
+    },
+    "m70": {
+        "year": "1995",
+        "genre": [
+            "comedy",
+            "crime",
+            "thriller"
+        ],
+        "count": "33588",
+        "title": "Get Shorty",
+        "score": "6.90"
+    },
+    "m91": {
+        "year": "1987",
+        "genre": [
+            "drama",
+            "war"
+        ],
+        "count": "4965",
+        "title": "Hope And Glory",
+        "score": "7.40"
+    },
+    "m605": {
+        "year": "2003",
+        "genre": [
+            "comedy"
+        ],
+        "count": "2267",
+        "title": "Who'S Your Daddy?",
+        "score": "4.50"
+    },
+    "m155": {
+        "year": "2002",
+        "genre": [
+            "thriller"
+        ],
+        "count": "69824",
+        "title": "Panic Room",
+        "score": "6.90"
+    },
+    "m326": {
+        "year": "1989",
+        "genre": [
+            "drama"
+        ],
+        "count": "27164",
+        "title": "Do The Right Thing",
+        "score": "7.90"
+    },
+    "m287": {
+        "year": "1992",
+        "genre": [
+            "horror",
+            "comedy",
+            "action"
+        ],
+        "count": "16206",
+        "title": "Buffy The Vampire Slayer",
+        "score": "5.30"
+    },
+    "m214": {
+        "year": "2002",
+        "genre": [
+            "sci-fi",
+            "adventure",
+            "action"
+        ],
+        "count": "32900",
+        "title": "The Time Machine",
+        "score": "5.70"
+    },
+    "m432": {
+        "year": "1999",
+        "genre": [
+            "biography",
+            "comedy",
+            "drama"
+        ],
+        "count": "49915",
+        "title": "Man On The Moon",
+        "score": "7.40"
+    },
+    "m512": {
+        "year": "1994",
+        "genre": [
+            "comedy",
+            "crime",
+            "drama",
+            "thriller"
+        ],
+        "count": "21611",
+        "title": "Shallow Grave",
+        "score": "7.40"
+    },
+    "m156": {
+        "year": "1995",
+        "genre": [
+            "drama"
+        ],
+        "count": "1129",
+        "title": "Panther",
+        "score": "5.90"
+    },
+    "m533": {
+        "year": "1998",
+        "genre": [
+            "comedy",
+            "drama"
+        ],
+        "count": "18714",
+        "title": "Stepmom",
+        "score": "6.20"
+    },
+    "m127": {
+        "year": "2001",
+        "genre": [
+            "comedy",
+            "crime",
+            "drama",
+            "thriller"
+        ],
+        "count": "9774",
+        "title": "Made",
+        "score": "6.40"
+    },
+    "m519": {
+        "year": "1995",
+        "genre": [
+            "comedy",
+            "drama"
+        ],
+        "count": "15482",
+        "title": "Smoke",
+        "score": "7.50"
+    },
+    "m372": {
+        "year": "1990",
+        "genre": [
+            "crime",
+            "drama",
+            "thriller"
+        ],
+        "count": "234582",
+        "title": "Goodfellas",
+        "score": "8.80"
+    },
+    "m562": {
+        "year": "2003",
+        "genre": [
+            "comedy"
+        ],
+        "count": "2900",
+        "title": "The Hebrew Hammer",
+        "score": "6.20"
+    },
+    "m528": {
+        "year": "1998",
+        "genre": [
+            "drama",
+            "horror",
+            "mystery",
+            "sci-fi",
+            "thriller"
+        ],
+        "count": "31924",
+        "title": "Sphere",
+        "score": "5.60"
+    },
+    "m564": {
+        "year": "1999",
+        "genre": [
+            "crime",
+            "drama",
+            "romance",
+            "thriller"
+        ],
+        "count": "911",
+        "title": "The Lost Son",
+        "score": "6.50"
+    },
+    "m240": {
+        "year": "1999",
+        "genre": [
+            "comedy",
+            "romance"
+        ],
+        "count": "107961",
+        "title": "American Pie",
+        "score": "6.90"
+    },
+    "m346": {
+        "year": "1966",
+        "genre": [
+            "adventure",
+            "sci-fi"
+        ],
+        "count": "5231",
+        "title": "Fantastic Voyage",
+        "score": "6.80"
+    },
+    "m391": {
+        "year": "1999",
+        "genre": [
+            "horror",
+            "mystery",
+            "thriller"
+        ],
+        "count": "23127",
+        "title": "House On Haunted Hill",
+        "score": "5.30"
+    },
+    "m602": {
+        "year": "2000",
+        "genre": [
+            "comedy",
+            "fantasy",
+            "romance"
+        ],
+        "count": "55269",
+        "title": "What Women Want",
+        "score": "6.30"
+    },
+    "m268": {
+        "year": "1998",
+        "genre": [
+            "drama",
+            "mystery"
+        ],
+        "count": "4014",
+        "title": "Beloved",
+        "score": "5.60"
+    },
+    "m74": {
+        "year": "1989",
+        "genre": [
+            "action",
+            "adventure",
+            "comedy",
+            "fantasy",
+            "sci-fi",
+            "action",
+            "adventure",
+            "comedy",
+            "sci-fi"
+        ],
+        "count": "45450",
+        "title": "Ghostbusters Ii",
+        "score": "6.10"
+    },
+    "m254": {
+        "year": "1973",
+        "genre": [
+            "crime",
+            "drama",
+            "romance",
+            "thriller"
+        ],
+        "count": "16753",
+        "title": "Badlands",
+        "score": "7.90"
+    },
+    "m48": {
+        "year": "1990",
+        "genre": [
+            "action",
+            "crime",
+            "drama",
+            "horror",
+            "sci-fi",
+            "thriller"
+        ],
+        "count": "3452",
+        "title": "Dark Angel",
+        "score": "5.30"
+    },
+    "m299": {
+        "year": "1994",
+        "genre": [
+            "comedy"
+        ],
+        "count": "90972",
+        "title": "Clerks.",
+        "score": "8.00"
+    },
+    "m497": {
+        "year": "1998",
+        "genre": [
+            "action",
+            "comedy",
+            "thriller",
+            "crime"
+        ],
+        "count": "56376",
+        "title": "Rush Hour",
+        "score": "6.80"
+    },
+    "m200": {
+        "year": "1995",
+        "genre": [
+            "action",
+            "crime",
+            "drama",
+            "fantasy",
+            "music",
+            "mystery",
+            "sci-fi",
+            "thriller"
+        ],
+        "count": "27744",
+        "title": "Strange Days",
+        "score": "7.10"
+    },
+    "m475": {
+        "year": "1996",
+        "genre": [
+            "thriller"
+        ],
+        "count": "164",
+        "title": "Playback",
+        "score": "3.60"
+    },
+    "m27": {
+        "year": "2000",
+        "genre": [
+            "comedy",
+            "drama",
+            "music"
+        ],
+        "count": "5995",
+        "title": "Bamboozled",
+        "score": "6.30"
+    },
+    "m480": {
+        "year": "1987",
+        "genre": [
+            "adventure",
+            "comedy",
+            "family",
+            "fantasy",
+            "romance"
+        ],
+        "count": "125281",
+        "title": "The Princess Bride",
+        "score": "8.10"
+    },
+    "m611": {
+        "year": "1999",
+        "genre": [
+            "action",
+            "adventure",
+            "thriller"
+        ],
+        "count": "60047",
+        "title": "The World Is Not Enough",
+        "score": "6.30"
+    },
+    "m454": {
+        "year": "1994",
+        "genre": [
+            "action",
+            "crime",
+            "drama",
+            "romance",
+            "thriller"
+        ],
+        "count": "73047",
+        "title": "Natural Born Killers",
+        "score": "7.10"
+    },
+    "m414": {
+        "year": "2005",
+        "genre": [
+            "adventure",
+            "drama",
+            "romance"
+        ],
+        "count": "134187",
+        "title": "King Kong",
+        "score": "7.60"
+    },
+    "m85": {
+        "year": "1988",
+        "genre": [
+            "drama",
+            "horror",
+            "thriller"
+        ],
+        "count": "11273",
+        "title": "Hellbound: Hellraiser Ii",
+        "score": "6.20"
+    },
+    "m4": {
+        "year": "1982",
+        "genre": [
+            "action",
+            "comedy",
+            "crime",
+            "drama",
+            "thriller"
+        ],
+        "count": "22289",
+        "title": "48 Hrs.",
+        "score": "6.90"
+    },
+    "m552": {
+        "year": "1999",
+        "genre": [
+            "crime",
+            "drama",
+            "mystery",
+            "thriller"
+        ],
+        "count": "15465",
+        "title": "The Limey",
+        "score": "7.00"
+    },
+    "m107": {
+        "year": "2001",
+        "genre": [
+            "horror",
+            "sci-fi"
+        ],
+        "count": "18199",
+        "title": "Jason X",
+        "score": "4.40"
+    },
+    "m275": {
+        "year": "1997",
+        "genre": [
+            "action",
+            "thriller"
+        ],
+        "count": "269",
+        "title": "Bloodmoon",
+        "score": "4.50"
+    },
+    "m483": {
+        "year": "1980",
+        "genre": [
+            "drama",
+            "horror",
+            "thriller"
+        ],
+        "count": "3382",
+        "title": "Maniac",
+        "score": "6.20"
+    },
+    "m600": {
+        "year": "1988",
+        "genre": [
+            "comedy",
+            "fantasy",
+            "horror"
+        ],
+        "count": "2596",
+        "title": "Waxwork",
+        "score": "6.00"
+    },
+    "m19": {
+        "year": "2001",
+        "genre": [
+            "action",
+            "western"
+        ],
+        "count": "7425",
+        "title": "American Outlaws",
+        "score": "5.70"
+    },
+    "m23": {
+        "year": "1998",
+        "genre": [
+            "action",
+            "adventure",
+            "thriller"
+        ],
+        "count": "21519",
+        "title": "The Avengers",
+        "score": "3.40"
+    },
+    "m547": {
+        "year": "1991",
+        "genre": [
+            "action",
+            "sci-fi",
+            "thriller"
+        ],
+        "count": "243230",
+        "title": "Terminator 2: Judgment Day",
+        "score": "8.50"
+    },
+    "m207": {
+        "year": "2001",
+        "genre": [
+            "drama",
+            "romance"
+        ],
+        "count": "25057",
+        "title": "The Majestic",
+        "score": "6.80"
+    },
+    "m143": {
+        "year": "1999",
+        "genre": [
+            "action",
+            "comedy",
+            "fantasy"
+        ],
+        "count": "31817",
+        "title": "Mystery Men",
+        "score": "5.90"
+    },
+    "m22": {
+        "year": "1997",
+        "genre": [
+            "action",
+            "adventure",
+            "comedy",
+            "crime"
+        ],
+        "count": "75240",
+        "title": "Austin Powers: International Man Of Mystery",
+        "score": "7.10"
+    },
+    "m194": {
+        "year": "1986",
+        "genre": [
+            "adventure",
+            "comedy",
+            "sci-fi"
+        ],
+        "count": "26423",
+        "title": "Star Trek Iv: The Voyage Home",
+        "score": "7.30"
+    },
+    "m470": {
+        "year": "1992",
+        "genre": [
+            "action",
+            "horror",
+            "thriller"
+        ],
+        "count": "6014",
+        "title": "Pet Sematary Ii",
+        "score": "4.20"
+    },
+    "m225": {
+        "year": "1982",
+        "genre": [
+            "drama"
+        ],
+        "count": "10991",
+        "title": "The Verdict",
+        "score": "7.70"
+    },
+    "m504": {
+        "year": "1993",
+        "genre": [
+            "biography",
+            "drama",
+            "history",
+            "war"
+        ],
+        "count": "282473",
+        "title": "Schindler'S List",
+        "score": "8.90"
+    },
+    "m283": {
+        "year": "1985",
+        "genre": [
+            "drama",
+            "fantasy",
+            "sci-fi"
+        ],
+        "count": "77350",
+        "title": "Brazil",
+        "score": "8.00"
+    },
+    "m320": {
+        "year": "1978",
+        "genre": [
+            "drama",
+            "war"
+        ],
+        "count": "89841",
+        "title": "The Deer Hunter",
+        "score": "8.20"
+    },
+    "m208": {
+        "year": "1963",
+        "genre": [
+            "horror",
+            "romance",
+            "thriller"
+        ],
+        "count": "53233",
+        "title": "The Birds",
+        "score": "7.90"
+    },
+    "m467": {
+        "year": "1998",
+        "genre": [
+            "comedy",
+            "crime",
+            "romance",
+            "thriller"
+        ],
+        "count": "38595",
+        "title": "Out Of Sight",
+        "score": "7.20"
+    },
+    "m469": {
+        "year": "1986",
+        "genre": [
+            "comedy",
+            "drama",
+            "fantasy",
+            "romance"
+        ],
+        "count": "12574",
+        "title": "Peggy Sue Got Married",
+        "score": "6.30"
+    },
+    "m141": {
+        "year": "1999",
+        "genre": [
+            "comedy",
+            "drama"
+        ],
+        "count": "6333",
+        "title": "Mumford",
+        "score": "6.80"
+    },
+    "m6": {
+        "year": "1999",
+        "genre": [
+            "crime",
+            "mystery",
+            "thriller"
+        ],
+        "count": "48212",
+        "title": "8Mm",
+        "score": "6.30"
+    },
+    "m282": {
+        "year": "2002",
+        "genre": [
+            "action",
+            "adventure",
+            "mystery",
+            "thriller"
+        ],
+        "count": "124918",
+        "title": "The Bourne Identity",
+        "score": "7.70"
+    },
+    "m239": {
+        "year": "1976",
+        "genre": [
+            "drama",
+            "history",
+            "thriller"
+        ],
+        "count": "32717",
+        "title": "All The President'S Men",
+        "score": "8.00"
+    },
+    "m381": {
+        "year": "2001",
+        "genre": [
+            "crime",
+            "thriller"
+        ],
+        "count": "75788",
+        "title": "Hannibal",
+        "score": "6.40"
+    },
+    "m261": {
+        "year": "1995",
+        "genre": [
+            "action",
+            "crime",
+            "fantasy",
+            "thriller"
+        ],
+        "count": "77223",
+        "title": "Batman Forever",
+        "score": "5.40"
+    },
+    "m494": {
+        "year": "1998",
+        "genre": [
+            "action",
+            "crime",
+            "thriller"
+        ],
+        "count": "58201",
+        "title": "Ronin",
+        "score": "7.20"
+    },
+    "m596": {
+        "year": "1961",
+        "genre": [
+            "drama"
+        ],
+        "count": "6288",
+        "title": "Viridiana",
+        "score": "8.20"
+    },
+    "m364": {
+        "year": "1982",
+        "genre": [
+            "biography",
+            "drama",
+            "history"
+        ],
+        "count": "52160",
+        "title": "Gandhi",
+        "score": "8.20"
+    },
+    "m566": {
+        "year": "2002",
+        "genre": [
+            "biography",
+            "drama",
+            "war"
+        ],
+        "count": "138080",
+        "title": "The Pianist",
+        "score": "8.50"
+    },
+    "m267": {
+        "year": "1999",
+        "genre": [
+            "comedy",
+            "drama",
+            "fantasy",
+            "romance"
+        ],
+        "count": "115008",
+        "title": "Being John Malkovich",
+        "score": "7.90"
+    },
+    "m53": {
+        "year": "1980",
+        "genre": [
+            "biography",
+            "drama",
+            "history"
+        ],
+        "count": "59625",
+        "title": "The Elephant Man",
+        "score": "8.40"
+    },
+    "m338": {
+        "year": "1971",
+        "genre": [
+            "sci-fi",
+            "thriller"
+        ],
+        "count": "7754",
+        "title": "Escape From The Planet Of The Apes",
+        "score": "6.10"
+    },
+    "m376": {
+        "year": "1998",
+        "genre": [
+            "drama",
+            "romance",
+            "western"
+        ],
+        "count": "15953",
+        "title": "The Horse Whisperer",
+        "score": "6.40"
+    },
+    "m67": {
+        "year": "1998",
+        "genre": [
+            "action",
+            "horror",
+            "sci-fi",
+            "thriller"
+        ],
+        "count": "60310",
+        "title": "Godzilla",
+        "score": "4.90"
+    },
+    "m445": {
+        "year": "1975",
+        "genre": [
+            "adventure",
+            "comedy"
+        ],
+        "count": "157683",
+        "title": "Monty Python And The Holy Grail",
+        "score": "8.40"
+    },
+    "m237": {
+        "year": "1993",
+        "genre": [
+            "action",
+            "adventure",
+            "sci-fi"
+        ],
+        "count": "116",
+        "title": "Alien Vs. Predator",
+        "score": "7.80"
+    },
+    "m250": {
+        "year": "1995",
+        "genre": [
+            "action",
+            "thriller",
+            "crime"
+        ],
+        "count": "23681",
+        "title": "Assassins",
+        "score": "6.00"
+    },
+    "m573": {
+        "year": "1932",
+        "genre": [
+            "comedy",
+            "crime",
+            "romance"
+        ],
+        "count": "4781",
+        "title": "Trouble In Paradise",
+        "score": "8.20"
+    },
+    "m153": {
+        "year": "2000",
+        "genre": [
+            "comedy",
+            "adventure",
+            "crime",
+            "music"
+        ],
+        "count": "95628",
+        "title": "O Brother, Where Art Thou?",
+        "score": "7.80"
+    },
+    "m341": {
+        "year": "1973",
+        "genre": [
+            "horror",
+            "thriller"
+        ],
+        "count": "106383",
+        "title": "The Exorcist",
+        "score": "8.10"
+    },
+    "m51": {
+        "year": "1999",
+        "genre": [
+            "comedy",
+            "adult"
+        ],
+        "count": "16417",
+        "title": "Drop Dead Gorgeous",
+        "score": "6.30"
+    },
+    "m389": {
+        "year": "2005",
+        "genre": [
+            "action",
+            "crime",
+            "drama",
+            "thriller"
+        ],
+        "count": "37868",
+        "title": "Hostage",
+        "score": "6.60"
+    },
+    "m195": {
+        "year": "1998",
+        "genre": [
+            "action",
+            "adventure",
+            "sci-fi",
+            "thriller"
+        ],
+        "count": "26728",
+        "title": "Star Trek: Insurrection",
+        "score": "6.30"
+    },
+    "m421": {
+        "year": "1989",
+        "genre": [
+            "adventure",
+            "horror",
+            "mystery",
+            "sci-fi",
+            "thriller"
+        ],
+        "count": "4751",
+        "title": "Leviathan",
+        "score": "5.30"
+    },
+    "m550": {
+        "year": "1997",
+        "genre": [
+            "drama",
+            "mystery",
+            "thriller"
+        ],
+        "count": "75861",
+        "title": "The Game",
+        "score": "7.70"
+    },
+    "m487": {
+        "year": "1991",
+        "genre": [
+            "drama"
+        ],
+        "count": "2631",
+        "title": "Rambling Rose",
+        "score": "6.60"
+    },
+    "m111": {
+        "year": "1995",
+        "genre": [
+            "crime",
+            "drama"
+        ],
+        "count": "26546",
+        "title": "Kids",
+        "score": "6.80"
+    }
+}
