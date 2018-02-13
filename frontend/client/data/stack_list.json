@@ -1,0 +1,612 @@
+[
+    {
+        "action": 0,
+        "adventure": 0,
+        "drama": 2,
+        "comedy": 0,
+        "horror": 0,
+        "sci-fi": 0,
+        "romance": 0,
+        "thriller": 0
+    },
+    {
+        "action": 0,
+        "adventure": 0,
+        "drama": 0,
+        "comedy": 0,
+        "horror": 0,
+        "sci-fi": 0,
+        "romance": 0,
+        "thriller": 0
+    },
+    {
+        "action": 0,
+        "adventure": 0,
+        "drama": 0,
+        "comedy": 0,
+        "horror": 0,
+        "sci-fi": 0,
+        "romance": 0,
+        "thriller": 0
+    },
+    {
+        "action": 1,
+        "adventure": 0,
+        "drama": 1,
+        "comedy": 0,
+        "horror": 2,
+        "sci-fi": 2,
+        "romance": 0,
+        "thriller": 1
+    },
+    {
+        "action": 0,
+        "adventure": 0,
+        "drama": 2,
+        "comedy": 0,
+        "horror": 0,
+        "sci-fi": 0,
+        "romance": 2,
+        "thriller": 1
+    },
+    {
+        "action": 0,
+        "adventure": 0,
+        "drama": 3,
+        "comedy": 0,
+        "horror": 0,
+        "sci-fi": 0,
+        "romance": 2,
+        "thriller": 1
+    },
+    {
+        "action": 0,
+        "adventure": 1,
+        "drama": 1,
+        "comedy": 0,
+        "horror": 0,
+        "sci-fi": 0,
+        "romance": 0,
+        "thriller": 0
+    },
+    {
+        "action": 0,
+        "adventure": 0,
+        "drama": 1,
+        "comedy": 0,
+        "horror": 0,
+        "sci-fi": 0,
+        "romance": 0,
+        "thriller": 0
+    },
+    {
+        "action": 0,
+        "adventure": 0,
+        "drama": 0,
+        "comedy": 0,
+        "horror": 0,
+        "sci-fi": 0,
+        "romance": 1,
+        "thriller": 1
+    },
+    {
+        "action": 0,
+        "adventure": 0,
+        "drama": 0,
+        "comedy": 2,
+        "horror": 1,
+        "sci-fi": 1,
+        "romance": 0,
+        "thriller": 1
+    },
+    {
+        "action": 0,
+        "adventure": 0,
+        "drama": 3,
+        "comedy": 1,
+        "horror": 1,
+        "sci-fi": 0,
+        "romance": 1,
+        "thriller": 2
+    },
+    {
+        "action": 0,
+        "adventure": 0,
+        "drama": 2,
+        "comedy": 0,
+        "horror": 0,
+        "sci-fi": 0,
+        "romance": 1,
+        "thriller": 0
+    },
+    {
+        "action": 0,
+        "adventure": 0,
+        "drama": 0,
+        "comedy": 0,
+        "horror": 0,
+        "sci-fi": 0,
+        "romance": 0,
+        "thriller": 0
+    },
+    {
+        "action": 0,
+        "adventure": 0,
+        "drama": 0,
+        "comedy": 1,
+        "horror": 1,
+        "sci-fi": 0,
+        "romance": 2,
+        "thriller": 2
+    },
+    {
+        "action": 0,
+        "adventure": 0,
+        "drama": 2,
+        "comedy": 2,
+        "horror": 0,
+        "sci-fi": 0,
+        "romance": 1,
+        "thriller": 0
+    },
+    {
+        "action": 0,
+        "adventure": 0,
+        "drama": 0,
+        "comedy": 0,
+        "horror": 1,
+        "sci-fi": 0,
+        "romance": 0,
+        "thriller": 0
+    },
+    {
+        "action": 0,
+        "adventure": 1,
+        "drama": 1,
+        "comedy": 0,
+        "horror": 0,
+        "sci-fi": 1,
+        "romance": 0,
+        "thriller": 0
+    },
+    {
+        "action": 0,
+        "adventure": 0,
+        "drama": 2,
+        "comedy": 1,
+        "horror": 0,
+        "sci-fi": 0,
+        "romance": 1,
+        "thriller": 0
+    },
+    {
+        "action": 0,
+        "adventure": 1,
+        "drama": 1,
+        "comedy": 1,
+        "horror": 0,
+        "sci-fi": 1,
+        "romance": 1,
+        "thriller": 0
+    },
+    {
+        "action": 0,
+        "adventure": 0,
+        "drama": 1,
+        "comedy": 0,
+        "horror": 0,
+        "sci-fi": 0,
+        "romance": 0,
+        "thriller": 0
+    },
+    {
+        "action": 0,
+        "adventure": 0,
+        "drama": 2,
+        "comedy": 1,
+        "horror": 0,
+        "sci-fi": 0,
+        "romance": 0,
+        "thriller": 0
+    },
+    {
+        "action": 1,
+        "adventure": 0,
+        "drama": 3,
+        "comedy": 2,
+        "horror": 0,
+        "sci-fi": 3,
+        "romance": 2,
+        "thriller": 4
+    },
+    {
+        "action": 1,
+        "adventure": 1,
+        "drama": 2,
+        "comedy": 0,
+        "horror": 0,
+        "sci-fi": 0,
+        "romance": 0,
+        "thriller": 2
+    },
+    {
+        "action": 0,
+        "adventure": 0,
+        "drama": 3,
+        "comedy": 1,
+        "horror": 1,
+        "sci-fi": 0,
+        "romance": 1,
+        "thriller": 2
+    },
+    {
+        "action": 0,
+        "adventure": 0,
+        "drama": 3,
+        "comedy": 2,
+        "horror": 0,
+        "sci-fi": 2,
+        "romance": 0,
+        "thriller": 3
+    },
+    {
+        "action": 0,
+        "adventure": 1,
+        "drama": 5,
+        "comedy": 2,
+        "horror": 1,
+        "sci-fi": 1,
+        "romance": 2,
+        "thriller": 1
+    },
+    {
+        "action": 1,
+        "adventure": 0,
+        "drama": 3,
+        "comedy": 0,
+        "horror": 0,
+        "sci-fi": 1,
+        "romance": 1,
+        "thriller": 2
+    },
+    {
+        "action": 3,
+        "adventure": 2,
+        "drama": 1,
+        "comedy": 2,
+        "horror": 0,
+        "sci-fi": 1,
+        "romance": 2,
+        "thriller": 0
+    },
+    {
+        "action": 1,
+        "adventure": 0,
+        "drama": 2,
+        "comedy": 0,
+        "horror": 1,
+        "sci-fi": 1,
+        "romance": 0,
+        "thriller": 3
+    },
+    {
+        "action": 2,
+        "adventure": 3,
+        "drama": 6,
+        "comedy": 1,
+        "horror": 1,
+        "sci-fi": 2,
+        "romance": 0,
+        "thriller": 1
+    },
+    {
+        "action": 1,
+        "adventure": 1,
+        "drama": 3,
+        "comedy": 1,
+        "horror": 2,
+        "sci-fi": 1,
+        "romance": 2,
+        "thriller": 2
+    },
+    {
+        "action": 0,
+        "adventure": 1,
+        "drama": 1,
+        "comedy": 1,
+        "horror": 1,
+        "sci-fi": 0,
+        "romance": 1,
+        "thriller": 0
+    },
+    {
+        "action": 4,
+        "adventure": 3,
+        "drama": 7,
+        "comedy": 3,
+        "horror": 3,
+        "sci-fi": 7,
+        "romance": 3,
+        "thriller": 5
+    },
+    {
+        "action": 3,
+        "adventure": 3,
+        "drama": 1,
+        "comedy": 1,
+        "horror": 0,
+        "sci-fi": 3,
+        "romance": 0,
+        "thriller": 1
+    },
+    {
+        "action": 5,
+        "adventure": 6,
+        "drama": 3,
+        "comedy": 2,
+        "horror": 1,
+        "sci-fi": 6,
+        "romance": 3,
+        "thriller": 3
+    },
+    {
+        "action": 2,
+        "adventure": 4,
+        "drama": 4,
+        "comedy": 1,
+        "horror": 3,
+        "sci-fi": 3,
+        "romance": 2,
+        "thriller": 5
+    },
+    {
+        "action": 4,
+        "adventure": 1,
+        "drama": 4,
+        "comedy": 5,
+        "horror": 2,
+        "sci-fi": 3,
+        "romance": 3,
+        "thriller": 4
+    },
+    {
+        "action": 4,
+        "adventure": 4,
+        "drama": 5,
+        "comedy": 5,
+        "horror": 4,
+        "sci-fi": 4,
+        "romance": 4,
+        "thriller": 5
+    },
+    {
+        "action": 4,
+        "adventure": 4,
+        "drama": 5,
+        "comedy": 5,
+        "horror": 4,
+        "sci-fi": 2,
+        "romance": 4,
+        "thriller": 5
+    },
+    {
+        "action": 8,
+        "adventure": 9,
+        "drama": 10,
+        "comedy": 5,
+        "horror": 4,
+        "sci-fi": 5,
+        "romance": 2,
+        "thriller": 9
+    },
+    {
+        "action": 4,
+        "adventure": 2,
+        "drama": 5,
+        "comedy": 3,
+        "horror": 2,
+        "sci-fi": 2,
+        "romance": 2,
+        "thriller": 8
+    },
+    {
+        "action": 6,
+        "adventure": 3,
+        "drama": 10,
+        "comedy": 5,
+        "horror": 0,
+        "sci-fi": 3,
+        "romance": 2,
+        "thriller": 9
+    },
+    {
+        "action": 4,
+        "adventure": 1,
+        "drama": 8,
+        "comedy": 3,
+        "horror": 4,
+        "sci-fi": 0,
+        "romance": 1,
+        "thriller": 11
+    },
+    {
+        "action": 7,
+        "adventure": 4,
+        "drama": 8,
+        "comedy": 3,
+        "horror": 1,
+        "sci-fi": 5,
+        "romance": 7,
+        "thriller": 6
+    },
+    {
+        "action": 7,
+        "adventure": 1,
+        "drama": 9,
+        "comedy": 7,
+        "horror": 1,
+        "sci-fi": 3,
+        "romance": 4,
+        "thriller": 10
+    },
+    {
+        "action": 6,
+        "adventure": 2,
+        "drama": 11,
+        "comedy": 3,
+        "horror": 2,
+        "sci-fi": 3,
+        "romance": 2,
+        "thriller": 12
+    },
+    {
+        "action": 7,
+        "adventure": 8,
+        "drama": 12,
+        "comedy": 5,
+        "horror": 3,
+        "sci-fi": 3,
+        "romance": 3,
+        "thriller": 12
+    },
+    {
+        "action": 14,
+        "adventure": 8,
+        "drama": 22,
+        "comedy": 9,
+        "horror": 7,
+        "sci-fi": 12,
+        "romance": 9,
+        "thriller": 22
+    },
+    {
+        "action": 12,
+        "adventure": 5,
+        "drama": 18,
+        "comedy": 9,
+        "horror": 7,
+        "sci-fi": 7,
+        "romance": 5,
+        "thriller": 18
+    },
+    {
+        "action": 11,
+        "adventure": 8,
+        "drama": 21,
+        "comedy": 20,
+        "horror": 3,
+        "sci-fi": 3,
+        "romance": 12,
+        "thriller": 18
+    },
+    {
+        "action": 9,
+        "adventure": 6,
+        "drama": 26,
+        "comedy": 11,
+        "horror": 9,
+        "sci-fi": 4,
+        "romance": 11,
+        "thriller": 22
+    },
+    {
+        "action": 8,
+        "adventure": 3,
+        "drama": 16,
+        "comedy": 12,
+        "horror": 2,
+        "sci-fi": 5,
+        "romance": 5,
+        "thriller": 10
+    },
+    {
+        "action": 10,
+        "adventure": 6,
+        "drama": 8,
+        "comedy": 2,
+        "horror": 5,
+        "sci-fi": 8,
+        "romance": 3,
+        "thriller": 13
+    },
+    {
+        "action": 3,
+        "adventure": 3,
+        "drama": 4,
+        "comedy": 5,
+        "horror": 5,
+        "sci-fi": 0,
+        "romance": 2,
+        "thriller": 6
+    },
+    {
+        "action": 5,
+        "adventure": 3,
+        "drama": 9,
+        "comedy": 2,
+        "horror": 1,
+        "sci-fi": 3,
+        "romance": 2,
+        "thriller": 7
+    },
+    {
+        "action": 4,
+        "adventure": 2,
+        "drama": 6,
+        "comedy": 3,
+        "horror": 1,
+        "sci-fi": 2,
+        "romance": 3,
+        "thriller": 5
+    },
+    {
+        "action": 2,
+        "adventure": 0,
+        "drama": 4,
+        "comedy": 1,
+        "horror": 1,
+        "sci-fi": 1,
+        "romance": 0,
+        "thriller": 3
+    },
+    {
+        "action": 1,
+        "adventure": 1,
+        "drama": 3,
+        "comedy": 1,
+        "horror": 0,
+        "sci-fi": 1,
+        "romance": 0,
+        "thriller": 2
+    },
+    {
+        "action": 0,
+        "adventure": 0,
+        "drama": 1,
+        "comedy": 0,
+        "horror": 0,
+        "sci-fi": 1,
+        "romance": 0,
+        "thriller": 1
+    },
+    {
+        "action": 1,
+        "adventure": 0,
+        "drama": 2,
+        "comedy": 0,
+        "horror": 1,
+        "sci-fi": 1,
+        "romance": 1,
+        "thriller": 1
+    },
+    {
+        "action": 0,
+        "adventure": 0,
+        "drama": 1,
+        "comedy": 0,
+        "horror": 1,
+        "sci-fi": 0,
+        "romance": 0,
+        "thriller": 1
+    }
+]
