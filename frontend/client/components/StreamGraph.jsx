@@ -22,17 +22,15 @@ class StreamGraph extends Component {
         //renderGraph()
     }
 
-
     updateRender() {
         const {size, dataStore} = this.props;
         const g = d3.select(this.g);
-        let freeze = this.props.dataStore.getFreezeSG;
+        let freeze = this.props.dataStore.interaction.freezeSG;
         // freeze interaction
         let tooltip = d3.select("#sg-tooltip");
         let x = this.state.x, mkeys = this.state.mkeys;
 
         g.selectAll(".layer")
-            .attr("opacity", 1)
             .on("mouseover", (d, i) => {
                 if (freeze) return;
                 let gen = mkeys[i];
@@ -40,6 +38,7 @@ class StreamGraph extends Component {
                 let xInx = parseInt(x.invert(mousex));
                 let acMovies = stackMovieList[xInx][gen];
                 this.props.dataStore.addActiveMovies(acMovies);
+                this.props.dataStore.interaction.activeGenreIdx = i;
                 g.selectAll(".layer").transition()
                     .duration(100)
                     .attr("opacity", function(d, j) {
@@ -57,6 +56,8 @@ class StreamGraph extends Component {
                 let year = getYear(x.invert(mousex));
                 let acMovies = stackMovieList[xInx][gen];
                 this.props.dataStore.addActiveMovies(acMovies);
+                this.props.dataStore.interaction.activeYear = year;
+                this.props.dataStore.interaction.activeGenreIdx = i;
                 tooltip.style("left", (mousex + 20) +"px")
                         .style("top", (mousey + 30) + "px")
                         .html("<p>" + count + " " + gen + " movies in " + year + "</p>")
@@ -71,6 +72,8 @@ class StreamGraph extends Component {
                 tooltip.style("visibility", "hidden");
             })
             .on("click", (d, i) => {
+                console.log("click")
+                console.log("freeze", freeze)
                 if (freeze) return;
                 let mousex = d3.event.pageX;
                 let gen = mkeys[i];
@@ -112,6 +115,7 @@ class StreamGraph extends Component {
         // margin
         let top = 50, left = 10;
         const g = d3.select(this.g).attr("transform",  "translate(" + left + ", "+ top +")");
+        this.props.dataStore.tempfix.streamGraphg = g;
         // d3
         let mkeys = ['sci-fi', 'comedy', 'thriller', 'romance', 'drama', 'action', 'adventure', 'horror'];
         let stack = d3.stack().keys(mkeys)
@@ -235,7 +239,8 @@ class StreamGraph extends Component {
     render() {
         return(
             <div id="sg-contain">
-                <svg ref={(g) => { this.svg = g }} width={this.props.size[0]} height={this.props.size[1]}>
+                <p className="tooltitle">Streamgraph: number of movies by genre and year</p>
+                <svg ref={(svg) => { this.svg = svg }} width={this.props.size[0]} height={this.props.size[1]}>
                     <g ref={(g) => { this.g = g }}></g>
                 </svg>
                 <div className="legend"></div>

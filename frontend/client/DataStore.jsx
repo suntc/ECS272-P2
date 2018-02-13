@@ -4,10 +4,26 @@ class DataStore {
     @observable interaction = {
         freezeSG : false,
         activeGenreIdx: -1,
+        activeYear: -1,
+        detailTarget: 0
         
     };
 
+    @observable tempfix = {
+        streamGraphg: undefined
+    };
+
+    // like on change, some functions only need to be performed once, statelessly
+    // use this as a temporary fix
+    @action resetSG() {
+        if (this.tempfix.streamGraphg == undefined) 
+            return;
+        this.tempfix.streamGraphg.selectAll(".layer").attr("opacity", 1);
+    }
+
     @observable activeMovies = [];
+
+    @observable selectedMovie = undefined;
 
     @action addActiveMovies(arr) {
         this.activeMovies = arr;
@@ -17,10 +33,14 @@ class DataStore {
         this.activeMovies = [];
     }
 
+    @action selectMovie(m) {
+        this.selectedMovie = m;
+    }
+
     @action resetSelection() {
-        console.log("hehe")
         this.activeMovies = [];
         this.interaction.freezeSG = false;
+        this.selectedMovie = undefined;
     }
 
     @action freezeSG() {
@@ -31,9 +51,6 @@ class DataStore {
         this.interaction.freezeSG = false;
     }
 
-    @computed get getFreezeSG() {
-        return this.interaction.freezeSG;
-    }
 
 }
 

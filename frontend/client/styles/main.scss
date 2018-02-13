@@ -2,6 +2,25 @@ body {
     background: #222;
 }
 
+/* width */
+::-webkit-scrollbar {
+    width: 10px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+    background: #f1f1f1; 
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+    background: #888; 
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+    background: #555; 
+}
 .label {
     fill: antiquewhite;
     font-size: 15px;
@@ -18,10 +37,32 @@ body {
     vertical-align: top;
 }
 
-.hidden.h-cell {
+#wc-contain {
+    vertical-align: top;
+}
+
+button.hidden {
     display: none;
 }
 
 .h-cell {
     display: inline-block;
+}
+
+.pointer {
+    cursor: pointer;
+}
+
+.right-b {
+    float: right;
+    margin-right: 5px;
+}
+
+.tooltitle {
+    text-align: center;
+    color: #abb1ba;
+    font-family: "Lucida Console", Courier, monospace;
+    font-weight: bold;
+    font-size: 110%;
+    margin: 0;
 }
