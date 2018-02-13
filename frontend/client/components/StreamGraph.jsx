@@ -30,32 +30,41 @@ class StreamGraph extends Component {
         // freeze interaction
         let tooltip = d3.select("#sg-tooltip");
         let x = this.state.x, mkeys = this.state.mkeys;
+
         g.selectAll(".layer")
             .attr("opacity", 1)
-            .on("mouseover", function(d, i) {
+            .on("mouseover", (d, i) => {
                 if (freeze) return;
+                let gen = mkeys[i];
+                let mousex = d3.event.pageX;
+                let xInx = parseInt(x.invert(mousex));
+                let acMovies = stackMovieList[xInx][gen];
+                this.props.dataStore.addActiveMovies(acMovies);
                 g.selectAll(".layer").transition()
                     .duration(100)
                     .attr("opacity", function(d, j) {
                         return j != i ? 0.6 : 1;
                     })
             })
-            .on("mousemove", function(d, i) {
+            .on("mousemove", (d, i) => {
                 if (freeze) return;
-                var color = d3.select(this).style('fill'); // need to know the color in order to generate the swatch
+                // var color = d3.select(this).style('fill'); // need to know the color in order to generate the swatch
                 let mousex = d3.event.pageX;
                 let mousey = d3.event.pageY;
                 let xInx = parseInt(x.invert(mousex));
                 let count = stackList[xInx][mkeys[i]];
                 let gen = mkeys[i];
                 let year = getYear(x.invert(mousex));
+                let acMovies = stackMovieList[xInx][gen];
+                this.props.dataStore.addActiveMovies(acMovies);
                 tooltip.style("left", (mousex + 20) +"px")
                         .style("top", (mousey + 30) + "px")
                         .html("<p>" + count + " " + gen + " movies in " + year + "</p>")
                         .style("visibility", "visible");                
             })
-            .on("mouseout", function(d, i) {
+            .on("mouseout", (d, i) => {
                 if (freeze) return;
+                this.props.dataStore.clearActiveMovies();
                 g.selectAll(".layer").transition()
                   .duration(100)
                   .attr("opacity", '1');
@@ -68,13 +77,19 @@ class StreamGraph extends Component {
                 let xInx = parseInt(x.invert(mousex));
                 let acMovies = stackMovieList[xInx][gen];
                 this.props.dataStore.addActiveMovies(acMovies);
+                this.props.dataStore.interaction.activeGenreIdx = i;
                 this.props.dataStore.freezeSG();
             })
 
             if (freeze) {
+                let activeGen = this.props.dataStore.interaction.activeGenreIdx;
+                console.log("activeGen", activeGen)
                 tooltip.style("visibility", "hidden");
-                d3.selectAll(".layer")
-                    .attr("opacity", 0.6);
+                g.selectAll(".layer").transition()
+                    .duration(100)
+                    .attr("opacity", function(d, j) {
+                        return j != activeGen ? 0.4 : 1;
+                    })
             }
 
             function getYear(x) {
@@ -95,7 +110,7 @@ class StreamGraph extends Component {
             return dict;
         });
         // margin
-        let top = 10, left = 10;
+        let top = 50, left = 10;
         const g = d3.select(this.g).attr("transform",  "translate(" + left + ", "+ top +")");
         // d3
         let mkeys = ['sci-fi', 'comedy', 'thriller', 'romance', 'drama', 'action', 'adventure', 'horror'];
@@ -106,10 +121,10 @@ class StreamGraph extends Component {
 
         let x = d3.scaleLinear()
             .domain([0, genreStack.length])
-            .range([0, width - 15]);
+            .range([0, width - left]);
         let y = d3.scaleLinear()
             .domain([d3.min(layers, stackMin), d3.max(layers, stackMax)])
-            .range([height-10, 0]);
+            .range([height-top, 0]);
         console.log(width, height);
         // console.log(d3.min(layers, stackMin), d3.max(layers, stackMax))
         console.log(stackMovieList)
@@ -139,10 +154,15 @@ class StreamGraph extends Component {
             .attr("d", area)
             .attr("fill", function(d, i) { return z(i); });
 
-
+        //let addActiveMovies = this.props.dataStore.addActiveMovies;
         g.selectAll(".layer")
             .attr("opacity", 1)
             .on("mouseover", function(d, i) {
+                let mousex = d3.event.pageX;
+                let gen = mkeys[i];
+                let xInx = parseInt(x.invert(mousex));
+                //let acMovies = stackMovieList[xInx][gen];
+                addActiveMovies(acMovies);
                 g.selectAll(".layer").transition()
                     .duration(100)
                     .attr("opacity", function(d, j) {
@@ -174,23 +194,25 @@ class StreamGraph extends Component {
                 let xInx = parseInt(x.invert(mousex));
                 let acMovies = stackMovieList[xInx][gen];
                 this.props.dataStore.addActiveMovies(acMovies);
+                this.props.dataStore.interaction.activeGenreIdx = i;
                 this.props.dataStore.freezeSG();
             })
         
+        // add legend
         var lengendScale = d3.scaleOrdinal()
             .domain(mkeys)
             .range(colorrange);
-
-        // add legend
+        
         var colorLegend = legend.legendColor()
             .scale(lengendScale)
             .shapePadding(1)
             .shapeWidth(15)
             .shapeHeight(8)
             .labelOffset(2);
+        const svg = d3.select(this.svg);
 
-        g.append("g")
-            .attr("transform", "translate(0, 0)")
+        svg.append("g")
+            .attr("transform", "translate(0, 5)")
             .call(colorLegend);
         
         // tooltip
@@ -213,7 +235,7 @@ class StreamGraph extends Component {
     render() {
         return(
             <div id="sg-contain">
-                <svg width={this.props.size[0]} height={this.props.size[1]}>
+                <svg ref={(g) => { this.svg = g }} width={this.props.size[0]} height={this.props.size[1]}>
                     <g ref={(g) => { this.g = g }}></g>
                 </svg>
                 <div className="legend"></div>

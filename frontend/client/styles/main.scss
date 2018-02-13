@@ -15,4 +15,13 @@ body {
 
 #sg-contain {
     display: inline-block;
+    vertical-align: top;
+}
+
+.hidden.h-cell {
+    display: none;
+}
+
+.h-cell {
+    display: inline-block;
 }

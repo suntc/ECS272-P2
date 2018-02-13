@@ -3,6 +3,7 @@ import { observable, action, computed, toJS } from 'mobx'
 class DataStore {
     @observable interaction = {
         freezeSG : false,
+        activeGenreIdx: -1,
         
     };
 
