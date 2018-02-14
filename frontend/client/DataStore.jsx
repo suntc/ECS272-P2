@@ -25,6 +25,14 @@ class DataStore {
 
     @observable selectedMovie = undefined;
 
+    @observable hoverChara = undefined;
+
+    @observable selectedChara = new Set();
+
+    @observable selectedLink = new Set();
+
+    @observable updateTrigger = 0;
+
     @action addActiveMovies(arr) {
         this.activeMovies = arr;
     }
@@ -41,6 +49,24 @@ class DataStore {
         this.activeMovies = [];
         this.interaction.freezeSG = false;
         this.selectedMovie = undefined;
+    }
+
+    @action updateCharaList(id) {
+        if (this.selectedChara.has(id)) {
+            this.selectedChara.delete(id);
+        } else {
+            this.selectedChara.add(id);
+        }
+        this.updateTrigger++;
+    }
+
+    @action updateLink(id) {
+        if (this.selectedLink.has(id)) {
+            this.selectedLink.delete(id);
+        } else {
+            this.selectedLink.add(id);
+        }
+        this.updateTrigger++;
     }
 
     @action freezeSG() {

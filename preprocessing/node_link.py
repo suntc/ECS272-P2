@@ -28,13 +28,21 @@ def gen_nodelink():
         link['source'] = c_id_1
         link['target'] = c_id_2
         link['id'] = pair
-        link['lines'] = lines
+        #link['lines'] = lines
         link['linecount'] = count_line(lines)
         nodelinks[m_id]['links'].append(link)
         nodelinks[m_id]['nodes'].setdefault(c_id_1, {})
         nodelinks[m_id]['nodes'].setdefault(c_id_2, {})
         nodelinks[m_id]['nodes'][c_id_1] = chara_dict[c_id_1]
         nodelinks[m_id]['nodes'][c_id_2] = chara_dict[c_id_2]
+    
+    ## convert dict to list
+    for m in nodelinks:
+        nodes = nodelinks[m]['nodes']
+        nodelinks[m]['nodes'] = []
+        for k in nodes:
+            ele = {'id': k}
+            nodelinks[m]['nodes'].append(ele)
     
     with open('nodelinks.json', 'w') as outfile:
         json.dump(nodelinks, outfile)

@@ -30,6 +30,10 @@ body {
     visibility: hidden;
     position: absolute;
     z-index: 20;
+    background: rgba(124, 117, 117, 0.5);
+    border-radius: 10px;
+    padding: 5px;
+    margin: 0;
 }
 
 #sg-contain {
@@ -42,6 +46,10 @@ body {
 }
 
 button.hidden {
+    display: none;
+}
+
+.hidden {
     display: none;
 }
 
@@ -75,4 +83,9 @@ button.hidden {
   .nodes circle {
     stroke: #fff;
     stroke-width: 1.5px;
+    
+  }
+
+  .clickable {
+    cursor: pointer;
   }

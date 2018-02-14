@@ -24,9 +24,6 @@ class WordCloud extends Component {
         const {size, words} = this.props;
         let prevwords = this.state.words;
         if (JSON.stringify(prevwords) === JSON.stringify(words)) { // simple comparison
-            console.log(JSON.stringify(prevwords))
-            console.log(JSON.stringify(words))
-            console.log("equal!!!")
             return;
         }
         this.setState({words: words});

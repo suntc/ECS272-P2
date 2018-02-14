@@ -1,7 +1,7 @@
 import React, { Component } from 'react'
 import * as d3 from 'd3';
 import legend from 'd3-svg-legend'
-import { autorun } from 'mobx'
+import { autorun, whyRun } from 'mobx'
 import { inject, observer } from 'mobx-react'
 import stackList from '../data/stack_list'
 import stackMovieList from '../data/stack_movie_list'
@@ -60,7 +60,7 @@ class StreamGraph extends Component {
                 this.props.dataStore.interaction.activeGenreIdx = i;
                 tooltip.style("left", (mousex + 20) +"px")
                         .style("top", (mousey + 30) + "px")
-                        .html("<p>" + count + " " + gen + " movies in " + year + "</p>")
+                        .html(count + " " + gen + " movies in " + year)
                         .style("visibility", "visible");                
             })
             .on("mouseout", (d, i) => {
@@ -72,8 +72,6 @@ class StreamGraph extends Component {
                 tooltip.style("visibility", "hidden");
             })
             .on("click", (d, i) => {
-                console.log("click")
-                console.log("freeze", freeze)
                 if (freeze) return;
                 let mousex = d3.event.pageX;
                 let gen = mkeys[i];
@@ -183,7 +181,7 @@ class StreamGraph extends Component {
                 let year = getYear(x.invert(mousex));
                 tooltip.style("left", (mousex + 20) +"px")
                         .style("top", (mousey + 30) + "px")
-                        .html("<p>" + count + " " + gen + " movies in " + year + "</p>")
+                        .html(count + " " + gen + " movies in " + year)
                         .style("visibility", "visible");                
             })
             .on("mouseout", function(d, i) {

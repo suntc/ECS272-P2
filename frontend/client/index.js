@@ -12,6 +12,4 @@ const Root = (
 );
 const approot = document.getElementById('react-app');
 
-console.log("dataStore", dataStore);
-
 ReactDOM.render(Root, approot);

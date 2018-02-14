@@ -112,6 +112,10 @@ export class App extends React.Component {
         // node link chart
         let nlW = this.state.screenWidth * 0.5;
         let nlH = this.state.screenHeight * 0.75;
+        let temp = undefined;
+        if (selectedMovie != undefined) {
+            temp = parseInt(selectedMovie.slice(1)) % 2
+        }
         return(
             <div>
                 <div className="hori-contain">
@@ -134,7 +138,7 @@ export class App extends React.Component {
                 </div>
                 <div>
                     <BubbleChart size={[bubbleW, bubbleH]}/>
-                    <NodeLink size={[nlW, nlH]}/>
+                    <NodeLink size={[nlW, nlH]} movie={selectedMovie}/>
                 </div>
             </div>
         );
