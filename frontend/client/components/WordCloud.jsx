@@ -20,48 +20,6 @@ class WordCloud extends Component {
         //autorun(() => this.updateRender());
     }
     
-    
-    updateRender = () => {
-        const {size, words} = this.props;
-        let prevwords = this.state.words;
-        if (JSON.stringify(prevwords) === JSON.stringify(words)) { // simple comparison
-            console.log("equal!!!")
-        }
-        this.stateState({words: words});
-        let width = size[0], height = size[1];
-        const g = d3.select(this.g);
-        var layout = cloud()
-            .size([width, height])
-            .words(words.map(function(d) {
-            return {text: d, size: 10 + Math.random() * 90, test: "haha"};
-            }))
-            .padding(5)
-            .rotate(0)
-            .font("Impact")
-            .fontSize(function(d) { return d.size; })
-            .on("end", draw);
-
-        layout.start();
-        function draw(words) {
-            var fill = d3.scaleOrdinal(d3.schemeCategory10);
-
-            g.attr("width", layout.size()[0])
-                .attr("height", layout.size()[1])
-                .append("g")
-                .attr("transform", "translate(" + layout.size()[0] / 2 + "," + layout.size()[1] / 2 + ")")
-                .selectAll("text")
-                .data(words)
-                .enter().append("text")
-                .style("font-size", function(d) { return d.size + "px"; })
-                .style("font-family", "Impact")
-                .style("fill", function(d, i) { return fill(i); })
-                .attr("text-anchor", "middle")
-                .attr("transform", function(d) {
-                return "translate(" + [d.x, d.y] + ")rotate(" + d.rotate + ")";
-                })
-                .text(function(d) { return d.text; });
-        }
-    }
     componentDidUpdate() {
         const {size, words} = this.props;
         let prevwords = this.state.words;
@@ -105,6 +63,13 @@ class WordCloud extends Component {
                 return "translate(" + [d.x, d.y] + ")rotate(" + d.rotate + ")";
                 })
                 .text(function(d) { return d.text; });
+
+            g.selectAll("text").attr("fill-opacity", 0)
+            .attr("stroke-opacity", 0).transition()
+            .duration(600)
+            //change fill and stroke opacity to avoid CSS conflicts
+            .attr("fill-opacity", 1)
+            .attr("stroke-opacity", 1)
         }
         //updateRender();
     }

@@ -108,10 +108,10 @@ export class App extends React.Component {
         let mlH = this.state.screenHeight * 0.35;
         // bubble chart
         let bubbleW = this.state.screenWidth * 0.45;
-        let bubbleH = this.state.screenWidth * 0.4;
+        let bubbleH = this.state.screenHeight * 0.75;
         // node link chart
         let nlW = this.state.screenWidth * 0.5;
-        let nlH = this.state.screenWidth * 0.4;
+        let nlH = this.state.screenHeight * 0.75;
         return(
             <div>
                 <div className="hori-contain">
