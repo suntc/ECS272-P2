@@ -9,7 +9,8 @@ import { inject, observer } from 'mobx-react'
 //import $ from "jquery";
 import movieDict from '../data/movie_dict'
 import movieTfidf from '../data/movie_tfidf_list'
-
+import Charas from '../data/chara_dict'
+import movieSentiment from '../data/movie_sentiment_dict'
 import { Element } from 'react-scroll'
 
 @inject('dataStore')
@@ -40,6 +41,10 @@ export class App extends React.Component {
         // variables
         let activeMovies = this.props.dataStore.activeMovies;
         let selectedMovie = this.props.dataStore.selectedMovie;
+        let activeLines = this.props.dataStore.activeLines;
+        let selectedLines = this.props.dataStore.selectedLines;
+        let activeWord = this.props.dataStore.interaction.activeWord;
+        let selectedWord = this.props.dataStore.interaction.selectedWord;
         let freeze = this.props.dataStore.interaction.freezeSG;
         let mdict = movieDict[selectedMovie];
         let mkeys = ['sci-fi', 'comedy', 'thriller', 'romance', 'drama', 'action', 'adventure', 'horror'];
@@ -109,12 +114,44 @@ export class App extends React.Component {
         // movie lines
         let mlW = this.state.screenWidth * 0.45;
         let mlH = this.state.screenHeight * 0.35;
+        let convs = [];
+        let hword = "";
+        if (selectedLines.length == 0) {
+            convs = activeLines.map((conv, i) => {
+                let convArr = conv.map((l) => {
+                    let txt = lineDict[l].text;
+                    let name = Charas[lineDict[l].cid].name;
+                    return (name + ": " + txt);
+                });
+                return convArr;
+            });
+            hword = activeWord;
+        }
+        else {
+            convs = selectedLines.map((conv, i) => {
+                let convArr = conv.map((l) => {
+                    let txt = lineDict[l].text;
+                    let name = Charas[lineDict[l].cid].name;
+                    return (name + ": " + txt);
+                });
+                return convArr;
+            });
+            hword = selectedWord;
+        }
+        let clearLines = () => {
+            this.props.dataStore.clearLines();
+        }
+        // filter duplicates (problems from data corpus)
         // bubble chart
         let bubbleW = this.state.screenWidth * 0.45;
-        let bubbleH = this.state.screenHeight * 0.75;
+        let bubbleH = this.state.screenHeight * 0.6;
+        let sentiDict = {};
+        if (selectedMovie != undefined) {
+            sentiDict = movieSentiment[selectedMovie];
+        }
         // node link chart
         let nlW = this.state.screenWidth * 0.5;
-        let nlH = this.state.screenHeight * 0.75;
+        let nlH = this.state.screenHeight * 0.6;
         let temp = undefined;
         if (selectedMovie != undefined) {
             temp = parseInt(selectedMovie.slice(1)) % 2
@@ -137,10 +174,17 @@ export class App extends React.Component {
                 </div>
                 <div>
                     <WordCloud ref={(r)=>{this.wccontain=r}} size={[wcloudW, wcloudH]} title={wcTitle} words={words}/>
-                    <MovieLines size={[mlW, mlH]}/>
+                    <div className="h-cell">
+                        <div>
+                            <p className="tooltitle">Movie Lines View</p>
+                            <button title="Clear lines" className={ ((selectedLines.length > 0) ? "show" : "hidden") + " h-cell right-b w3-button w3-circle w3-padding-small w3-deep-orange"}
+                                    onClick={clearLines}>🗙</button>
+                        </div>
+                        <MovieLines size={[mlW, mlH]} conversations={convs} highlightWord={hword}/>
+                    </div>
                 </div>
                 <div>
-                    <BubbleChart size={[bubbleW, bubbleH]}/>
+                    <BubbleChart size={[bubbleW, bubbleH]} sentiDict={sentiDict}/>
                     <NodeLink size={[nlW, nlH]} movie={selectedMovie}/>
                 </div>
             </div>

@@ -5,8 +5,9 @@ class DataStore {
         freezeSG : false,
         activeGenreIdx: -1,
         activeYear: -1,
-        detailTarget: 0
-        
+        detailTarget: 0,
+        activeWord: undefined,
+        selectedWord: undefined,
     };
 
     @observable tempfix = {
@@ -38,10 +39,7 @@ class DataStore {
     @observable updateTrigger = 0;
 
     @action setActiveLine(lineArr) {
-        console.log("hhe")
-        this.activeLines = [];
-        this.activeLines.push(lineArr);
-        console.log("activeLines", this.activeLines)
+        this.activeLines = lineArr
     }
 
     @action addSelectedLine(lineArr) {
@@ -49,9 +47,19 @@ class DataStore {
     }
 
     @action setSelectedLine(lineArr) {
+        this.selectedLines = lineArr
+    }
+
+    @action clearActiveLine() {
+        this.activeLines = [];
+        this.interaction.activeWord = undefined;
+    }
+
+    @action clearLines() {
+        this.activeLines = [];
+        this.interaction.activeWord = undefined;
         this.selectedLines = [];
-        this.selectedLines.push(lineArr);
-        console.log(this.activeLines)
+        this.interaction.selectedWord = undefined;
     }
 
     @action addActiveMovies(arr) {
@@ -70,6 +78,8 @@ class DataStore {
         this.activeMovies = [];
         this.interaction.freezeSG = false;
         this.selectedMovie = undefined;
+        this.selectedLines = [];
+        this.activeLines = [];
     }
 
     @action updateCharaList(id) {

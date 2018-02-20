@@ -84,7 +84,6 @@ class StreamGraph extends Component {
 
             if (freeze) {
                 let activeGen = this.props.dataStore.interaction.activeGenreIdx;
-                console.log("activeGen", activeGen)
                 tooltip.style("visibility", "hidden");
                 g.selectAll(".layer").transition()
                     .duration(100)

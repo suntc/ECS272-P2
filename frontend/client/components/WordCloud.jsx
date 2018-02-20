@@ -32,12 +32,13 @@ class WordCloud extends Component {
         }
         this.setState({words: words});
         let width = size[0], height = size[1];
+        let minfontsize = height / 15;
         const g = d3.select(this.g);
         g.selectAll("*").remove();
         var layout = cloud()
             .size([width, height])
             .words(cwords.map(function(d) {
-                return {text: d.word, size: 10 + Math.sqrt(d.value) * 10, line: d.line};
+                return {text: d.word, size: Math.max(10 + Math.sqrt(d.value) * 10, minfontsize), line: d.line};
             }))
             .padding(5)
             .rotate(0)
@@ -45,7 +46,7 @@ class WordCloud extends Component {
             .fontSize(function(d) { return d.size; })
             .on("end", draw);
         
-        let setActiveLine = this.props.dataStore.setActiveLine;
+        let dataStore = this.props.dataStore;
         layout.start();
         function draw(words) {
             var fill = d3.scaleOrdinal(d3.schemeCategory10);
@@ -67,10 +68,27 @@ class WordCloud extends Component {
                 .text(function(d) { return d.text; })
                 .classed("clickable", true)
                 .on("mouseover", (d, i) => {
-                    setActiveLine(d.line);
+                    let line = d.line;
+                    // remove duplicates
+                    let uniquel = line.filter(function(item, pos, self) {
+                        return self.indexOf(item) == pos;
+                    })
+                    let convs = uniquel.map((d) => [d]);
+                    dataStore.setActiveLine(convs);
+                    dataStore.interaction.activeWord = d.text;
+                })
+                .on("mouseout", (d, i) => {
+                    dataStore.clearActiveLine();
                 })
                 .on("click", (d, i) => {
-                    setActiveLine(d.line);
+                    let line = d.line;
+                    // remove duplicates
+                    let uniquel = line.filter(function(item, pos, self) {
+                        return self.indexOf(item) == pos;
+                    })
+                    let convs = uniquel.map((d) => [d]);
+                    dataStore.setSelectedLine(convs);
+                    dataStore.interaction.selectedWord = d.text;
                 })
 
             g.selectAll("text").attr("fill-opacity", 0)

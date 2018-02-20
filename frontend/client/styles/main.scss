@@ -80,12 +80,22 @@ button.hidden {
     stroke-opacity: 0.6;
   }
   
-  .nodes circle {
+.nodes circle {
     stroke: #fff;
     stroke-width: 1.5px;
-    
-  }
+}
 
-  .clickable {
+.clickable {
     cursor: pointer;
-  }
+}
+
+.dashed {
+    border-top: 1px dashed #8c8b8b;
+    opacity: .5;
+    margin: 0%;
+    margin-right: 5%
+}
+
+.highlight-word {
+    color: red;
+}
