@@ -8,6 +8,8 @@ import NodeLink from './NodeLink'
 import { inject, observer } from 'mobx-react'
 //import $ from "jquery";
 import movieDict from '../data/movie_dict'
+import movieTfidf from '../data/movie_tfidf_list'
+
 import { Element } from 'react-scroll'
 
 @inject('dataStore')
@@ -76,13 +78,14 @@ export class App extends React.Component {
         let words = [];
         if (selectedMovie != undefined) {
             wcTitle = "Word Cloud: " + mdict.title + " (" + mdict.year + ")";
-            words = ['A','AA','AA','AA','AA','AA','AA'];
-        } else if (activeMovies.length > 0) {
-            let gidx = this.props.dataStore.interaction.activeGenreIdx;
-            let year = this.props.dataStore.interaction.activeYear;
-            wcTitle = "Word Cloud: " + mkeys[gidx] + " movies in " + year
-            words = ['B','BB','BBB','B','BB','BBB','B','BB','BBB','B','BB','BBB','B','BB','BBB','B','BB','BBB']
-        } 
+            words = movieTfidf[selectedMovie]
+        }
+        // else if (activeMovies.length > 0) {
+        //     let gidx = this.props.dataStore.interaction.activeGenreIdx;
+        //     let year = this.props.dataStore.interaction.activeYear;
+        //     wcTitle = "Word Cloud: " + mkeys[gidx] + " movies in " + year
+        //     words = []
+        // } 
         // top right
         let toprightdiv = "";
         if (this.props.dataStore.selectedMovie != undefined) {

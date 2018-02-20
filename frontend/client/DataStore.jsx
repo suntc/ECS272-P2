@@ -31,7 +31,28 @@ class DataStore {
 
     @observable selectedLink = new Set();
 
+    @observable activeLines = [];
+
+    @observable selectedLines = [];
+
     @observable updateTrigger = 0;
+
+    @action setActiveLine(lineArr) {
+        console.log("hhe")
+        this.activeLines = [];
+        this.activeLines.push(lineArr);
+        console.log("activeLines", this.activeLines)
+    }
+
+    @action addSelectedLine(lineArr) {
+        this.selectedLines.push(lineArr);
+    }
+
+    @action setSelectedLine(lineArr) {
+        this.selectedLines = [];
+        this.selectedLines.push(lineArr);
+        console.log(this.activeLines)
+    }
 
     @action addActiveMovies(arr) {
         this.activeMovies = arr;
